@@ -1,0 +1,95 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body>
+    <script type="text/javascript" src="three.js-master/build/three.js"></script>
+    <script src="three.js-master/examples/js/controls/OrbitControls.js"></script>
+    <script src="three.js-master/examples/js/libs/dat.gui.min.js"></script>
+    <script type="text/javascript">
+
+        var W = window.innerWidth, H = window.innerHeight;
+
+        var renderer = new THREE.WebGLRenderer();
+        renderer.setSize(W, H);
+
+        var scene = new THREE.Scene();
+        scene.add(new THREE.AxesHelper(50));
+
+        var planGeometry = new THREE.PlaneGeometry(10, 10, 10, 10);
+        var planMaterial = new THREE.MeshBasicMaterial({
+            color: "red",
+            wireframe: true
+
+        });
+
+        var plan = new THREE.Mesh(planGeometry,planMaterial);
+        scene.add(plan);
+        plan.position.set(10, 0, 10);
+        plan.rotateX(-Math.PI / 2);
+
+        var smileyShape = new THREE.Shape();
+        smileyShape.moveTo(80, 40);
+        smileyShape.absarc(40, 40, 40, 0, Math.PI * 2, false);
+
+        var smiley = new THREE.Mesh(
+            new THREE.ExtrudeGeometry(smileyShape, {
+                amount: 2,
+                bevelThickness: 1,
+                bevelSize: 1,
+                bevelSegments: 3,
+                bevelEnabled: true,
+                steps: 1
+            }));
+
+
+        var gura = new THREE.Path();
+        gura.absellipse(40, 50, 20, 10, 0, Math.PI * 2, true);
+        smileyShape.holes.push(gura);
+
+
+
+        var smileyGeometry = 
+           new THREE.ExtrudeGeometry(smileyShape, {
+               amount: 2,
+               bevelThickness: 1,
+               bevelSize: 1,
+               bevelSegments: 3,
+               bevelEnabled: true,
+               steps: 1
+           });
+
+        smileyGeometry.scale(0.1,0.1,0.1);
+
+        var smiley=new THREE.Mesh(
+            smileyGeometry,
+            
+            new THREE.MeshBasicMaterial({
+                color: 'red',
+                wireframe: false
+            }));
+        smiley.position.set(13, 8, 8);
+        smiley.rotateZ(Math.PI);
+        scene.add(smiley);
+
+        var camera = new THREE.PerspectiveCamera(90, W / H, 0.1, 1000);
+        camera.position.set(25, 8, 8);
+        camera.lookAt(scene.position);
+        new THREE.OrbitControls(camera);
+
+        document.body.appendChild(renderer.domElement);
+
+        function desenare() {
+            renderer.render(scene, camera);
+            requestAnimationFrame(desenare);
+        }
+
+        desenare();
+
+
+
+    </script>
+</body>
+</html>

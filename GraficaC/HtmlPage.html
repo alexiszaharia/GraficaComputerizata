@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Aplicatie3d</title>
+	<meta charset="utf-8" />
+</head>
+<body>
+    <script type="text/javascript" src="three.js-master/build/three.js"></script>
+    <script src="three.js-master/examples/js/controls/OrbitControls.js"></script>
+    <script src="three.js-master/examples/js/libs/dat.gui.min.js"></script>
+    <script type="text/javascript">
+
+        var W = window.innerWidth, H = window.innerHeight;
+
+        var renderer = new THREE.WebGLRenderer();
+            renderer.setSize(W, H);
+
+        var scene = new THREE.Scene();
+        scene.add(new THREE.AxesHelper(1000));
+
+        var cubG = new THREE.BoxGeometry(25, 25, 25);
+        for (var r = 0; r < 255; r += 30) {
+            for (var g = 0;g < 255; g += 30) {
+                for (var b = 0; b < 255; b += 30) {
+
+                   
+                    var material = new THREE.MeshBasicMaterial({
+                        color: `rgb(${r},${g},${b})`
+                    });
+
+                    var cub = new THREE.Mesh(cubG, material);
+                    cub.position.set(r, g, b);
+                    scene.add(cub);
+                }
+            }
+          }
+       
+
+        var camera = new THREE.PerspectiveCamera(60, W / H, 0.01, 1000);
+        camera.position.x = 400;
+        camera.position.y = 400;
+        camera.position.z = 400;
+        camera.lookAt(scene.position);
+
+        new THREE.OrbitControls(camera);
+        
+        document.body.appendChild(renderer.domElement);
+
+
+        var parametri = {
+            nrCuburi:100
+        };
+
+        var gui = new dat.GUI();
+        gui.add(parametri, 'nrCuburi').min(1).max(scene.children.length -1 );
+
+        function render() {
+
+            for (var i = 0;i<scene.children.length;i++) {
+                scene.children[i].visible = i <= parametri.nrCuburi;
+            }
+            
+
+            renderer.render(scene, camera);
+            requestAnimationFrame(render);
+        }
+
+        render();
+
+        
+        
+
+
+
+    </script>
+</body>
+</html>

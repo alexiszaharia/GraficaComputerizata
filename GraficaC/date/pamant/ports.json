@@ -1,0 +1,7606 @@
+{
+  "ports": [
+    {
+      "name": "REYKJAVIK",
+      "long": 21.56,
+      "longType": "W",
+      "lat": 64.9,
+      "latType": "N"
+    },
+    {
+      "name": "PITUFFIK (THULE AIR BASE)",
+      "long": 68.52,
+      "longType": "W",
+      "lat": 76.32,
+      "latType": "N"
+    },
+    {
+      "name": "MARIEL",
+      "long": 82.45,
+      "longType": "W",
+      "lat": 22.59,
+      "latType": "N"
+    },
+    {
+      "name": "BAHAI DE LA HABANA",
+      "long": 82.22,
+      "longType": "W",
+      "lat": 23.8,
+      "latType": "N"
+    },
+    {
+      "name": "MATANZAS",
+      "long": 81.33,
+      "longType": "W",
+      "lat": 23.3,
+      "latType": "N"
+    },
+    {
+      "name": "CARDENAS",
+      "long": 81.12,
+      "longType": "W",
+      "lat": 23.3,
+      "latType": "N"
+    },
+    {
+      "name": "ISABELA DE SAGUA",
+      "long": 80.0,
+      "longType": "W",
+      "lat": 22.57,
+      "latType": "N"
+    },
+    {
+      "name": "NUEVITAS BAY",
+      "long": 77.16,
+      "longType": "W",
+      "lat": 21.33,
+      "latType": "N"
+    },
+    {
+      "name": "MANATI",
+      "long": 76.49,
+      "longType": "W",
+      "lat": 21.22,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO PADRE",
+      "long": 76.32,
+      "longType": "W",
+      "lat": 21.17,
+      "latType": "N"
+    },
+    {
+      "name": "ANTILLA",
+      "long": 75.44,
+      "longType": "W",
+      "lat": 20.50,
+      "latType": "N"
+    },
+    {
+      "name": "FELTON",
+      "long": 75.36,
+      "longType": "W",
+      "lat": 20.44,
+      "latType": "N"
+    },
+    {
+      "name": "NICARO",
+      "long": 75.33,
+      "longType": "W",
+      "lat": 20.43,
+      "latType": "N"
+    },
+    {
+      "name": "BAHIA DE SAGUA DE TANAMO",
+      "long": 75.20,
+      "longType": "W",
+      "lat": 20.41,
+      "latType": "N"
+    },
+    {
+      "name": "CAYO MOA GRANDE",
+      "long": 74.54,
+      "longType": "W",
+      "lat": 20.40,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO GUANTANAMO",
+      "long": 75.8,
+      "longType": "W",
+      "lat": 19.59,
+      "latType": "N"
+    },
+    {
+      "name": "SANTIAGO DE CUBA",
+      "long": 75.50,
+      "longType": "W",
+      "lat": 20.1,
+      "latType": "N"
+    },
+    {
+      "name": "MEDIA LUNA",
+      "long": 77.26,
+      "longType": "W",
+      "lat": 20.9,
+      "latType": "N"
+    },
+    {
+      "name": "MANZANILLO",
+      "long": 77.7,
+      "longType": "W",
+      "lat": 20.21,
+      "latType": "N"
+    },
+    {
+      "name": "GUAYABAL",
+      "long": 77.37,
+      "longType": "W",
+      "lat": 20.42,
+      "latType": "N"
+    },
+    {
+      "name": "GRUNDARTANGI",
+      "long": 22.0,
+      "longType": "W",
+      "lat": 64.16,
+      "latType": "N"
+    },
+    {
+      "name": "JUCARO",
+      "long": 78.51,
+      "longType": "W",
+      "lat": 21.37,
+      "latType": "N"
+    },
+    {
+      "name": "CASILDA",
+      "long": 79.59,
+      "longType": "W",
+      "lat": 21.45,
+      "latType": "N"
+    },
+    {
+      "name": "CIENFUEGOS",
+      "long": 80.27,
+      "longType": "W",
+      "lat": 22.9,
+      "latType": "N"
+    },
+    {
+      "name": "NUEVA GERONA",
+      "long": 82.48,
+      "longType": "W",
+      "lat": 21.55,
+      "latType": "N"
+    },
+    {
+      "name": "GEORGETOWN",
+      "long": 81.23,
+      "longType": "W",
+      "lat": 19.18,
+      "latType": "N"
+    },
+    {
+      "name": "CAYMAN BRAC",
+      "long": 79.45,
+      "longType": "W",
+      "lat": 19.45,
+      "latType": "N"
+    },
+    {
+      "name": "LUCEA",
+      "long": 78.10,
+      "longType": "W",
+      "lat": 18.27,
+      "latType": "N"
+    },
+    {
+      "name": "MONTEGO BAY",
+      "long": 77.56,
+      "longType": "W",
+      "lat": 18.28,
+      "latType": "N"
+    },
+    {
+      "name": "OCHO RIOS",
+      "long": 77.7,
+      "longType": "W",
+      "lat": 18.25,
+      "latType": "N"
+    },
+    {
+      "name": "PORT ANTONIO",
+      "long": 76.27,
+      "longType": "W",
+      "lat": 18.11,
+      "latType": "N"
+    },
+    {
+      "name": "KINGSTON",
+      "long": 76.47,
+      "longType": "W",
+      "lat": 17.58,
+      "latType": "N"
+    },
+    {
+      "name": "PORT ESQUIVEL",
+      "long": 77.8,
+      "longType": "W",
+      "lat": 17.53,
+      "latType": "N"
+    },
+    {
+      "name": "ROCKY POINT",
+      "long": 77.9,
+      "longType": "W",
+      "lat": 17.49,
+      "latType": "N"
+    },
+    {
+      "name": "PORT KAISER",
+      "long": 77.36,
+      "longType": "W",
+      "lat": 17.52,
+      "latType": "N"
+    },
+    {
+      "name": "PORT AU PRINCE",
+      "long": 72.21,
+      "longType": "W",
+      "lat": 18.33,
+      "latType": "N"
+    },
+    {
+      "name": "CHURCHILL",
+      "long": 94.11,
+      "longType": "W",
+      "lat": 58.47,
+      "latType": "N"
+    },
+    {
+      "name": "CAP HAITIEN",
+      "long": 72.12,
+      "longType": "W",
+      "lat": 19.46,
+      "latType": "N"
+    },
+    {
+      "name": "PEPILLO SALCEDO",
+      "long": 71.45,
+      "longType": "W",
+      "lat": 19.42,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO PLATA",
+      "long": 70.42,
+      "longType": "W",
+      "lat": 19.48,
+      "latType": "N"
+    },
+    {
+      "name": "SANTA BARBARA DE SAMANA",
+      "long": 69.20,
+      "longType": "W",
+      "lat": 19.12,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO BOTADO",
+      "long": 69.27,
+      "longType": "W",
+      "lat": 19.12,
+      "latType": "N"
+    },
+    {
+      "name": "LA ROMANA",
+      "long": 68.58,
+      "longType": "W",
+      "lat": 18.25,
+      "latType": "N"
+    },
+    {
+      "name": "SAN PEDRO DE MACORIS",
+      "long": 69.19,
+      "longType": "W",
+      "lat": 18.27,
+      "latType": "N"
+    },
+    {
+      "name": "SANTO DOMINGO",
+      "long": 69.53,
+      "longType": "W",
+      "lat": 18.28,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO DE HAINA",
+      "long": 70.1,
+      "longType": "W",
+      "lat": 18.25,
+      "latType": "N"
+    },
+    {
+      "name": "PUNTA NIZAO OIL TERMINAL",
+      "long": 70.12,
+      "longType": "W",
+      "lat": 18.12,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO VIEJO DE AZUA",
+      "long": 70.50,
+      "longType": "W",
+      "lat": 18.21,
+      "latType": "N"
+    },
+    {
+      "name": "SANTA CRUZ DE BARAHONA",
+      "long": 71.5,
+      "longType": "W",
+      "lat": 18.12,
+      "latType": "N"
+    },
+    {
+      "name": "CABO ROJO",
+      "long": 71.39,
+      "longType": "W",
+      "lat": 17.55,
+      "latType": "N"
+    },
+    {
+      "name": "AGUADILLA",
+      "long": 67.9,
+      "longType": "W",
+      "lat": 18.26,
+      "latType": "N"
+    },
+    {
+      "name": "SAN JUAN",
+      "long": 66.7,
+      "longType": "W",
+      "lat": 18.28,
+      "latType": "N"
+    },
+    {
+      "name": "ENSENADA HONDA",
+      "long": 65.38,
+      "longType": "W",
+      "lat": 18.14,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO YABUCOA",
+      "long": 65.50,
+      "longType": "W",
+      "lat": 18.3,
+      "latType": "N"
+    },
+    {
+      "name": "BAHIA DE JOBOS",
+      "long": 66.11,
+      "longType": "W",
+      "lat": 17.57,
+      "latType": "N"
+    },
+    {
+      "name": "LAS MAREAS",
+      "long": 66.10,
+      "longType": "W",
+      "lat": 17.57,
+      "latType": "N"
+    },
+    {
+      "name": "PLAYA DE GUAYANILLA",
+      "long": 66.46,
+      "longType": "W",
+      "lat": 18.1,
+      "latType": "N"
+    },
+    {
+      "name": "PLAYA DE GUANICA",
+      "long": 66.55,
+      "longType": "W",
+      "lat": 17.58,
+      "latType": "N"
+    },
+    {
+      "name": "MAYAGUEZ",
+      "long": 67.9,
+      "longType": "W",
+      "lat": 18.12,
+      "latType": "N"
+    },
+    {
+      "name": "CHARLOTTE AMALIE",
+      "long": 64.56,
+      "longType": "W",
+      "lat": 18.21,
+      "latType": "N"
+    },
+    {
+      "name": "FREDERIKSTED",
+      "long": 64.53,
+      "longType": "W",
+      "lat": 17.43,
+      "latType": "N"
+    },
+    {
+      "name": "LIMETREE BAY",
+      "long": 64.45,
+      "longType": "W",
+      "lat": 17.42,
+      "latType": "N"
+    },
+    {
+      "name": "PORT ALUCROIX",
+      "long": 64.46,
+      "longType": "W",
+      "lat": 17.42,
+      "latType": "N"
+    },
+    {
+      "name": "ROAD HARBOR",
+      "long": 64.37,
+      "longType": "W",
+      "lat": 18.25,
+      "latType": "N"
+    },
+    {
+      "name": "ORANJESTAD",
+      "long": 62.59,
+      "longType": "W",
+      "lat": 17.29,
+      "latType": "N"
+    },
+    {
+      "name": "BASSETERRE",
+      "long": 62.43,
+      "longType": "W",
+      "lat": 17.18,
+      "latType": "N"
+    },
+    {
+      "name": "ST JOHNS",
+      "long": 61.51,
+      "longType": "W",
+      "lat": 17.7,
+      "latType": "N"
+    },
+    {
+      "name": "POINTE A PITRE",
+      "long": 61.32,
+      "longType": "W",
+      "lat": 16.14,
+      "latType": "N"
+    },
+    {
+      "name": "BASSE TERRE",
+      "long": 61.44,
+      "longType": "W",
+      "lat": 16.0,
+      "latType": "N"
+    },
+    {
+      "name": "PORT LOUIS",
+      "long": 61.32,
+      "longType": "W",
+      "lat": 16.25,
+      "latType": "N"
+    },
+    {
+      "name": "ROSEAU",
+      "long": 61.24,
+      "longType": "W",
+      "lat": 15.18,
+      "latType": "N"
+    },
+    {
+      "name": "PORTSMOUTH",
+      "long": 61.28,
+      "longType": "W",
+      "lat": 15.34,
+      "latType": "N"
+    },
+    {
+      "name": "FORT DE FRANCE",
+      "long": 61.4,
+      "longType": "W",
+      "lat": 14.36,
+      "latType": "N"
+    },
+    {
+      "name": "VIEUX FORT",
+      "long": 60.58,
+      "longType": "W",
+      "lat": 13.43,
+      "latType": "N"
+    },
+    {
+      "name": "GRAND CUL DE SAC BAY",
+      "long": 61.1,
+      "longType": "W",
+      "lat": 13.59,
+      "latType": "N"
+    },
+    {
+      "name": "CASTRIES",
+      "long": 61.0,
+      "longType": "W",
+      "lat": 14.1,
+      "latType": "N"
+    },
+    {
+      "name": "KINGSTOWN",
+      "long": 61.14,
+      "longType": "W",
+      "lat": 13.9,
+      "latType": "N"
+    },
+    {
+      "name": "ST GEORGE S",
+      "long": 61.45,
+      "longType": "W",
+      "lat": 12.3,
+      "latType": "N"
+    },
+    {
+      "name": "BRIDGETOWN",
+      "long": 59.38,
+      "longType": "W",
+      "lat": 13.6,
+      "latType": "N"
+    },
+    {
+      "name": "CHAGUARAMAS",
+      "long": 61.39,
+      "longType": "W",
+      "lat": 10.41,
+      "latType": "N"
+    },
+    {
+      "name": "ANSE TEMBLADORA",
+      "long": 61.35,
+      "longType": "W",
+      "lat": 10.41,
+      "latType": "N"
+    },
+    {
+      "name": "PORT OF SPAIN",
+      "long": 61.31,
+      "longType": "W",
+      "lat": 10.39,
+      "latType": "N"
+    },
+    {
+      "name": "POINT LISAS PORT",
+      "long": 61.29,
+      "longType": "W",
+      "lat": 10.23,
+      "latType": "N"
+    },
+    {
+      "name": "POINTE A PIERRE",
+      "long": 61.28,
+      "longType": "W",
+      "lat": 10.19,
+      "latType": "N"
+    },
+    {
+      "name": "POINT LISAS INDUSTRIAL PORT",
+      "long": 61.30,
+      "longType": "W",
+      "lat": 10.24,
+      "latType": "N"
+    },
+    {
+      "name": "BRIGHTON",
+      "long": 61.38,
+      "longType": "W",
+      "lat": 10.15,
+      "latType": "N"
+    },
+    {
+      "name": "POINT FORTIN",
+      "long": 61.42,
+      "longType": "W",
+      "lat": 10.12,
+      "latType": "N"
+    },
+    {
+      "name": "GALEOTA POINT TERMINAL",
+      "long": 60.59,
+      "longType": "W",
+      "lat": 10.8,
+      "latType": "N"
+    },
+    {
+      "name": "KRALENDIJK",
+      "long": 68.17,
+      "longType": "W",
+      "lat": 12.9,
+      "latType": "N"
+    },
+    {
+      "name": "GOTO OIL TERMINAL",
+      "long": 68.23,
+      "longType": "W",
+      "lat": 12.13,
+      "latType": "N"
+    },
+    {
+      "name": "SALINA",
+      "long": 68.17,
+      "longType": "W",
+      "lat": 12.5,
+      "latType": "N"
+    },
+    {
+      "name": "CARACASBAAI",
+      "long": 68.52,
+      "longType": "W",
+      "lat": 12.4,
+      "latType": "N"
+    },
+    {
+      "name": "WILLEMSTAD",
+      "long": 68.56,
+      "longType": "W",
+      "lat": 12.7,
+      "latType": "N"
+    },
+    {
+      "name": "BULLEN BAAI",
+      "long": 69.2,
+      "longType": "W",
+      "lat": 12.11,
+      "latType": "N"
+    },
+    {
+      "name": "SINT MICHELSBAAI",
+      "long": 69.1,
+      "longType": "W",
+      "lat": 12.8,
+      "latType": "N"
+    },
+    {
+      "name": "SINT NICOLAAS BAAI",
+      "long": 69.55,
+      "longType": "W",
+      "lat": 12.26,
+      "latType": "N"
+    },
+    {
+      "name": "PAARDEN BAAI - (ORANJESTAD)",
+      "long": 70.2,
+      "longType": "W",
+      "lat": 12.31,
+      "latType": "N"
+    },
+    {
+      "name": "COVENAS",
+      "long": 75.41,
+      "longType": "W",
+      "lat": 9.25,
+      "latType": "N"
+    },
+    {
+      "name": "COVENAS OFFSHORE TERM.",
+      "long": 75.44,
+      "longType": "W",
+      "lat": 9.30,
+      "latType": "N"
+    },
+    {
+      "name": "EL BOSQUE",
+      "long": 75.32,
+      "longType": "W",
+      "lat": 10.24,
+      "latType": "N"
+    },
+    {
+      "name": "CARTAGENA",
+      "long": 75.32,
+      "longType": "W",
+      "lat": 10.25,
+      "latType": "N"
+    },
+    {
+      "name": "BARRANQUILLA",
+      "long": 74.46,
+      "longType": "W",
+      "lat": 10.58,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO PRODECO",
+      "long": 74.13,
+      "longType": "W",
+      "lat": 11.9,
+      "latType": "N"
+    },
+    {
+      "name": "POZOS COLORADOS",
+      "long": 74.15,
+      "longType": "W",
+      "lat": 11.9,
+      "latType": "N"
+    },
+    {
+      "name": "SANTA MARTA",
+      "long": 74.13,
+      "longType": "W",
+      "lat": 11.15,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO BOLIVAR",
+      "long": 71.58,
+      "longType": "W",
+      "lat": 12.15,
+      "latType": "N"
+    },
+    {
+      "name": "MARACAIBO",
+      "long": 71.36,
+      "longType": "W",
+      "lat": 10.38,
+      "latType": "N"
+    },
+    {
+      "name": "SAN LORENZO",
+      "long": 71.4,
+      "longType": "W",
+      "lat": 9.47,
+      "latType": "N"
+    },
+    {
+      "name": "LA SALINA",
+      "long": 71.28,
+      "longType": "W",
+      "lat": 10.22,
+      "latType": "N"
+    },
+    {
+      "name": "PUNTA DE PALMAS",
+      "long": 71.35,
+      "longType": "W",
+      "lat": 10.47,
+      "latType": "N"
+    },
+    {
+      "name": "BAJO GRANDE",
+      "long": 71.38,
+      "longType": "W",
+      "lat": 10.31,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO MIRANDA",
+      "long": 71.34,
+      "longType": "W",
+      "lat": 10.46,
+      "latType": "N"
+    },
+    {
+      "name": "EL TABIAZO",
+      "long": 71.32,
+      "longType": "W",
+      "lat": 10.46,
+      "latType": "N"
+    },
+    {
+      "name": "PUNTA CARDON",
+      "long": 70.14,
+      "longType": "W",
+      "lat": 11.38,
+      "latType": "N"
+    },
+    {
+      "name": "AMUAY (BAHIA DE AMUAY)",
+      "long": 70.14,
+      "longType": "W",
+      "lat": 11.45,
+      "latType": "N"
+    },
+    {
+      "name": "EL PALITO",
+      "long": 68.7,
+      "longType": "W",
+      "lat": 10.29,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO CABELLO",
+      "long": 68.0,
+      "longType": "W",
+      "lat": 10.29,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO BORBURATA",
+      "long": 67.59,
+      "longType": "W",
+      "lat": 10.29,
+      "latType": "N"
+    },
+    {
+      "name": "JOSE TERMINAL",
+      "long": 64.51,
+      "longType": "W",
+      "lat": 10.6,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO LA CRUZ",
+      "long": 64.38,
+      "longType": "W",
+      "lat": 10.15,
+      "latType": "N"
+    },
+    {
+      "name": "GUANTA",
+      "long": 64.35,
+      "longType": "W",
+      "lat": 10.15,
+      "latType": "N"
+    },
+    {
+      "name": "EL GUAMACHE",
+      "long": 64.6,
+      "longType": "W",
+      "lat": 10.54,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO DE HIERRO",
+      "long": 62.6,
+      "longType": "W",
+      "lat": 10.38,
+      "latType": "N"
+    },
+    {
+      "name": "CARIPITO",
+      "long": 63.2,
+      "longType": "W",
+      "lat": 10.9,
+      "latType": "N"
+    },
+    {
+      "name": "PALUA",
+      "long": 62.41,
+      "longType": "W",
+      "lat": 8.22,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO ORDAZ",
+      "long": 62.43,
+      "longType": "W",
+      "lat": 8.21,
+      "latType": "N"
+    },
+    {
+      "name": "GEORGETOWN",
+      "long": 58.10,
+      "longType": "W",
+      "lat": 6.50,
+      "latType": "N"
+    },
+    {
+      "name": "PARAMARIBO",
+      "long": 55.9,
+      "longType": "W",
+      "lat": 5.49,
+      "latType": "N"
+    },
+    {
+      "name": "PARANAM",
+      "long": 55.6,
+      "longType": "W",
+      "lat": 5.37,
+      "latType": "N"
+    },
+    {
+      "name": "MOENGO",
+      "long": 54.25,
+      "longType": "W",
+      "lat": 5.38,
+      "latType": "N"
+    },
+    {
+      "name": "DEGRAD DES CANNES",
+      "long": 52.16,
+      "longType": "W",
+      "lat": 4.51,
+      "latType": "N"
+    },
+    {
+      "name": "PORTO SANTANA",
+      "long": 51.11,
+      "longType": "W",
+      "lat": 0.3,
+      "latType": "S"
+    },
+    {
+      "name": "BELEM",
+      "long": 48.30,
+      "longType": "W",
+      "lat": 1.27,
+      "latType": "S"
+    },
+    {
+      "name": "VILA DO CONDE",
+      "long": 48.45,
+      "longType": "W",
+      "lat": 1.33,
+      "latType": "S"
+    },
+    {
+      "name": "SANTAREM",
+      "long": 54.43,
+      "longType": "W",
+      "lat": 2.25,
+      "latType": "S"
+    },
+    {
+      "name": "MANAUS",
+      "long": 60.1,
+      "longType": "W",
+      "lat": 3.8,
+      "latType": "S"
+    },
+    {
+      "name": "IQUITOS",
+      "long": 73.14,
+      "longType": "W",
+      "lat": 3.45,
+      "latType": "S"
+    },
+    {
+      "name": "ITAQUI",
+      "long": 44.22,
+      "longType": "W",
+      "lat": 2.34,
+      "latType": "S"
+    },
+    {
+      "name": "PORTO DE MUCURIPE",
+      "long": 38.29,
+      "longType": "W",
+      "lat": 3.43,
+      "latType": "S"
+    },
+    {
+      "name": "GUAMARE OIL TERMINAL",
+      "long": 36.17,
+      "longType": "W",
+      "lat": 4.52,
+      "latType": "S"
+    },
+    {
+      "name": "CABEDELO",
+      "long": 34.50,
+      "longType": "W",
+      "lat": 6.58,
+      "latType": "S"
+    },
+    {
+      "name": "RECIFE",
+      "long": 34.52,
+      "longType": "W",
+      "lat": 8.3,
+      "latType": "S"
+    },
+    {
+      "name": "PORTO DE SUAPE",
+      "long": 34.58,
+      "longType": "W",
+      "lat": 8.24,
+      "latType": "S"
+    },
+    {
+      "name": "PORTO DE MACEIO",
+      "long": 35.44,
+      "longType": "W",
+      "lat": 9.40,
+      "latType": "S"
+    },
+    {
+      "name": "PORT DE ARACAJU",
+      "long": 37.3,
+      "longType": "W",
+      "lat": 10.55,
+      "latType": "S"
+    },
+    {
+      "name": "PORT DE SALVADOR",
+      "long": 38.31,
+      "longType": "W",
+      "lat": 12.58,
+      "latType": "S"
+    },
+    {
+      "name": "ARATU",
+      "long": 38.30,
+      "longType": "W",
+      "lat": 12.48,
+      "latType": "S"
+    },
+    {
+      "name": "MADRE DE DEUS",
+      "long": 38.38,
+      "longType": "W",
+      "lat": 12.45,
+      "latType": "S"
+    },
+    {
+      "name": "PORT OF ILHEUS",
+      "long": 39.1,
+      "longType": "W",
+      "lat": 14.47,
+      "latType": "S"
+    },
+    {
+      "name": "PORTOCEL",
+      "long": 40.3,
+      "longType": "W",
+      "lat": 19.51,
+      "latType": "S"
+    },
+    {
+      "name": "VITORIA",
+      "long": 40.20,
+      "longType": "W",
+      "lat": 20.19,
+      "latType": "S"
+    },
+    {
+      "name": "TUBARAO",
+      "long": 40.15,
+      "longType": "W",
+      "lat": 20.17,
+      "latType": "S"
+    },
+    {
+      "name": "DTSE / GEGUA OIL TERMINAL",
+      "long": 43.9,
+      "longType": "W",
+      "lat": 22.49,
+      "latType": "S"
+    },
+    {
+      "name": "PORTO DO FORNO",
+      "long": 42.1,
+      "longType": "W",
+      "lat": 22.58,
+      "latType": "S"
+    },
+    {
+      "name": "RIO DE JANEIRO",
+      "long": 43.10,
+      "longType": "W",
+      "lat": 22.54,
+      "latType": "S"
+    },
+    {
+      "name": "GUAIBA ISLAND TERMINAL",
+      "long": 44.1,
+      "longType": "W",
+      "lat": 23.0,
+      "latType": "S"
+    },
+    {
+      "name": "GEBIG",
+      "long": 44.13,
+      "longType": "W",
+      "lat": 23.3,
+      "latType": "S"
+    },
+    {
+      "name": "SAO SEBASTIAO",
+      "long": 45.24,
+      "longType": "W",
+      "lat": 23.48,
+      "latType": "S"
+    },
+    {
+      "name": "SANTOS",
+      "long": 46.18,
+      "longType": "W",
+      "lat": 23.57,
+      "latType": "S"
+    },
+    {
+      "name": "PARANAGUA",
+      "long": 48.31,
+      "longType": "W",
+      "lat": 25.30,
+      "latType": "S"
+    },
+    {
+      "name": "ITAJAI",
+      "long": 48.38,
+      "longType": "W",
+      "lat": 26.55,
+      "latType": "S"
+    },
+    {
+      "name": "IMBITUBA",
+      "long": 48.41,
+      "longType": "W",
+      "lat": 28.14,
+      "latType": "S"
+    },
+    {
+      "name": "TRAMANDAI",
+      "long": 50.8,
+      "longType": "W",
+      "lat": 29.59,
+      "latType": "S"
+    },
+    {
+      "name": "RIO GRANDE",
+      "long": 52.5,
+      "longType": "W",
+      "lat": 32.3,
+      "latType": "S"
+    },
+    {
+      "name": "PORTO ALEGRE",
+      "long": 51.14,
+      "longType": "W",
+      "lat": 30.2,
+      "latType": "S"
+    },
+    {
+      "name": "MONTEVIDEO",
+      "long": 56.13,
+      "longType": "W",
+      "lat": 34.54,
+      "latType": "S"
+    },
+    {
+      "name": "SANTA FE",
+      "long": 60.42,
+      "longType": "W",
+      "lat": 31.39,
+      "latType": "S"
+    },
+    {
+      "name": "DIAMANTE",
+      "long": 60.39,
+      "longType": "W",
+      "lat": 32.4,
+      "latType": "S"
+    },
+    {
+      "name": "PUERTO SAN MARTIN",
+      "long": 60.44,
+      "longType": "W",
+      "lat": 32.43,
+      "latType": "S"
+    },
+    {
+      "name": "SAN LORENZO",
+      "long": 60.44,
+      "longType": "W",
+      "lat": 32.45,
+      "latType": "S"
+    },
+    {
+      "name": "ROSARIO",
+      "long": 60.38,
+      "longType": "W",
+      "lat": 32.57,
+      "latType": "S"
+    },
+    {
+      "name": "VILLA CONSTITUCION",
+      "long": 60.20,
+      "longType": "W",
+      "lat": 33.14,
+      "latType": "S"
+    },
+    {
+      "name": "SAN NICOLAS",
+      "long": 60.14,
+      "longType": "W",
+      "lat": 33.20,
+      "latType": "S"
+    },
+    {
+      "name": "SAN PEDRO",
+      "long": 59.49,
+      "longType": "W",
+      "lat": 33.35,
+      "latType": "S"
+    },
+    {
+      "name": "ZARATE",
+      "long": 59.2,
+      "longType": "W",
+      "lat": 34.5,
+      "latType": "S"
+    },
+    {
+      "name": "CAMPANA",
+      "long": 58.58,
+      "longType": "W",
+      "lat": 34.9,
+      "latType": "S"
+    },
+    {
+      "name": "CONCEPCION DEL URUGUAY",
+      "long": 58.14,
+      "longType": "W",
+      "lat": 32.29,
+      "latType": "S"
+    },
+    {
+      "name": "BUENOS AIRES",
+      "long": 58.22,
+      "longType": "W",
+      "lat": 34.36,
+      "latType": "S"
+    },
+    {
+      "name": "LA PLATA",
+      "long": 57.56,
+      "longType": "W",
+      "lat": 34.54,
+      "latType": "S"
+    },
+    {
+      "name": "MAR DEL PLATA",
+      "long": 57.32,
+      "longType": "W",
+      "lat": 38.2,
+      "latType": "S"
+    },
+    {
+      "name": "QUEQUEN",
+      "long": 58.42,
+      "longType": "W",
+      "lat": 38.36,
+      "latType": "S"
+    },
+    {
+      "name": "PUERTO ROSALES",
+      "long": 62.4,
+      "longType": "W",
+      "lat": 38.56,
+      "latType": "S"
+    },
+    {
+      "name": "PUERTO BELGRANO",
+      "long": 62.6,
+      "longType": "W",
+      "lat": 38.53,
+      "latType": "S"
+    },
+    {
+      "name": "BAHIA BLANCA",
+      "long": 62.16,
+      "longType": "W",
+      "lat": 38.47,
+      "latType": "S"
+    },
+    {
+      "name": "PUERTO INGENIERO WHITE",
+      "long": 62.16,
+      "longType": "W",
+      "lat": 38.48,
+      "latType": "S"
+    },
+    {
+      "name": "PUERTO GALVAN",
+      "long": 62.18,
+      "longType": "W",
+      "lat": 38.47,
+      "latType": "S"
+    },
+    {
+      "name": "PUERTO MADRYN",
+      "long": 65.2,
+      "longType": "W",
+      "lat": 42.46,
+      "latType": "S"
+    },
+    {
+      "name": "COMODORO RIVADAVIA",
+      "long": 67.28,
+      "longType": "W",
+      "lat": 45.52,
+      "latType": "S"
+    },
+    {
+      "name": "RADA PUERTO DESEADO",
+      "long": 65.54,
+      "longType": "W",
+      "lat": 47.45,
+      "latType": "S"
+    },
+    {
+      "name": "RIO GALLEGOS",
+      "long": 69.13,
+      "longType": "W",
+      "lat": 51.37,
+      "latType": "S"
+    },
+    {
+      "name": "VILLA CONSTITUCION",
+      "long": 60.20,
+      "longType": "W",
+      "lat": 33.18,
+      "latType": "S"
+    },
+    {
+      "name": "PUERTO SARA",
+      "long": 70.12,
+      "longType": "W",
+      "lat": 52.38,
+      "latType": "S"
+    },
+    {
+      "name": "CALETA CLARENCIA",
+      "long": 70.6,
+      "longType": "W",
+      "lat": 52.54,
+      "latType": "S"
+    },
+    {
+      "name": "RADA PUNTA ARENAS",
+      "long": 70.54,
+      "longType": "W",
+      "lat": 53.10,
+      "latType": "S"
+    },
+    {
+      "name": "PUERTO CHACABUCO",
+      "long": 72.50,
+      "longType": "W",
+      "lat": 45.28,
+      "latType": "S"
+    },
+    {
+      "name": "PUERTO MONTT",
+      "long": 72.58,
+      "longType": "W",
+      "lat": 41.29,
+      "latType": "S"
+    },
+    {
+      "name": "PUERTO DE CORRAL",
+      "long": 73.26,
+      "longType": "W",
+      "lat": 39.52,
+      "latType": "S"
+    },
+    {
+      "name": "BAHIA DE VALDIVIA",
+      "long": 73.15,
+      "longType": "W",
+      "lat": 39.48,
+      "latType": "S"
+    },
+    {
+      "name": "CORONEL",
+      "long": 73.10,
+      "longType": "W",
+      "lat": 37.2,
+      "latType": "S"
+    },
+    {
+      "name": "BAHIA SAN VICENTE",
+      "long": 73.10,
+      "longType": "W",
+      "lat": 36.44,
+      "latType": "S"
+    },
+    {
+      "name": "TALCAHUANO",
+      "long": 73.6,
+      "longType": "W",
+      "lat": 36.42,
+      "latType": "S"
+    },
+    {
+      "name": "PENCO",
+      "long": 73.0,
+      "longType": "W",
+      "lat": 36.43,
+      "latType": "S"
+    },
+    {
+      "name": "PUERTO SAN ANTONIO",
+      "long": 71.37,
+      "longType": "W",
+      "lat": 33.35,
+      "latType": "S"
+    },
+    {
+      "name": "BAHIA DE VALPARAISO",
+      "long": 71.37,
+      "longType": "W",
+      "lat": 33.2,
+      "latType": "S"
+    },
+    {
+      "name": "BAHIA QUINTERO (VENTANAS)",
+      "long": 71.32,
+      "longType": "W",
+      "lat": 32.46,
+      "latType": "S"
+    },
+    {
+      "name": "BAHIA HERRADURA GUAYACAN",
+      "long": 71.22,
+      "longType": "W",
+      "lat": 29.58,
+      "latType": "S"
+    },
+    {
+      "name": "COQUIMBO",
+      "long": 71.20,
+      "longType": "W",
+      "lat": 29.57,
+      "latType": "S"
+    },
+    {
+      "name": "HUASCO",
+      "long": 71.15,
+      "longType": "W",
+      "lat": 28.28,
+      "latType": "S"
+    },
+    {
+      "name": "PUERTO CALDERA",
+      "long": 70.50,
+      "longType": "W",
+      "lat": 27.3,
+      "latType": "S"
+    },
+    {
+      "name": "PUERTO CALDERILLA",
+      "long": 70.52,
+      "longType": "W",
+      "lat": 27.5,
+      "latType": "S"
+    },
+    {
+      "name": "PUERTO CHANARAL",
+      "long": 70.39,
+      "longType": "W",
+      "lat": 26.21,
+      "latType": "S"
+    },
+    {
+      "name": "TALTAL",
+      "long": 70.29,
+      "longType": "W",
+      "lat": 25.24,
+      "latType": "S"
+    },
+    {
+      "name": "ANTOFAGASTA",
+      "long": 70.25,
+      "longType": "W",
+      "lat": 23.39,
+      "latType": "S"
+    },
+    {
+      "name": "MEJILLONES",
+      "long": 70.28,
+      "longType": "W",
+      "lat": 23.6,
+      "latType": "S"
+    },
+    {
+      "name": "CALETA PATILLOS",
+      "long": 70.12,
+      "longType": "W",
+      "lat": 20.44,
+      "latType": "S"
+    },
+    {
+      "name": "TOCOPILLA",
+      "long": 70.14,
+      "longType": "W",
+      "lat": 22.5,
+      "latType": "S"
+    },
+    {
+      "name": "IQUIQUE",
+      "long": 70.10,
+      "longType": "W",
+      "lat": 20.12,
+      "latType": "S"
+    },
+    {
+      "name": "RADA DE ARICA",
+      "long": 70.20,
+      "longType": "W",
+      "lat": 18.28,
+      "latType": "S"
+    },
+    {
+      "name": "PUERTO ILO",
+      "long": 71.22,
+      "longType": "W",
+      "lat": 17.38,
+      "latType": "S"
+    },
+    {
+      "name": "BAHIA DE MATARANI",
+      "long": 72.7,
+      "longType": "W",
+      "lat": 17.0,
+      "latType": "S"
+    },
+    {
+      "name": "BAHIA SAN NICOLAS",
+      "long": 75.14,
+      "longType": "W",
+      "lat": 15.15,
+      "latType": "S"
+    },
+    {
+      "name": "CONCHAN OIL TERMINAL",
+      "long": 77.0,
+      "longType": "W",
+      "lat": 12.10,
+      "latType": "S"
+    },
+    {
+      "name": "PUERTO DEL CALLAO",
+      "long": 77.9,
+      "longType": "W",
+      "lat": 12.3,
+      "latType": "S"
+    },
+    {
+      "name": "PUERTO SUPE",
+      "long": 77.45,
+      "longType": "W",
+      "lat": 10.48,
+      "latType": "S"
+    },
+    {
+      "name": "PUERTO DE CHIMBOTE",
+      "long": 78.37,
+      "longType": "W",
+      "lat": 9.5,
+      "latType": "S"
+    },
+    {
+      "name": "SALAVERRY",
+      "long": 78.59,
+      "longType": "W",
+      "lat": 8.14,
+      "latType": "S"
+    },
+    {
+      "name": "PUERTO BAYOVAR",
+      "long": 81.3,
+      "longType": "W",
+      "lat": 5.50,
+      "latType": "S"
+    },
+    {
+      "name": "PAITA",
+      "long": 81.7,
+      "longType": "W",
+      "lat": 5.5,
+      "latType": "S"
+    },
+    {
+      "name": "TALARA",
+      "long": 81.17,
+      "longType": "W",
+      "lat": 4.35,
+      "latType": "S"
+    },
+    {
+      "name": "PUERTO CABO BLANCO",
+      "long": 81.14,
+      "longType": "W",
+      "lat": 4.15,
+      "latType": "S"
+    },
+    {
+      "name": "GUAYAQUIL",
+      "long": 79.53,
+      "longType": "W",
+      "lat": 2.12,
+      "latType": "S"
+    },
+    {
+      "name": "PUERTO MARITIMO DE GUAYAQUIL",
+      "long": 79.54,
+      "longType": "W",
+      "lat": 2.17,
+      "latType": "S"
+    },
+    {
+      "name": "LA LIBERTAD",
+      "long": 80.55,
+      "longType": "W",
+      "lat": 2.13,
+      "latType": "S"
+    },
+    {
+      "name": "BOTWOOD HARBOR",
+      "long": 55.20,
+      "longType": "W",
+      "lat": 49.9,
+      "latType": "N"
+    },
+    {
+      "name": "MANTA",
+      "long": 80.43,
+      "longType": "W",
+      "lat": 0.57,
+      "latType": "S"
+    },
+    {
+      "name": "ESMERALDAS",
+      "long": 79.39,
+      "longType": "W",
+      "lat": 1.0,
+      "latType": "N"
+    },
+    {
+      "name": "TUMACO",
+      "long": 78.45,
+      "longType": "W",
+      "lat": 1.49,
+      "latType": "N"
+    },
+    {
+      "name": "BUENAVENTURA",
+      "long": 77.4,
+      "longType": "W",
+      "lat": 3.53,
+      "latType": "N"
+    },
+    {
+      "name": "BALBOA",
+      "long": 79.34,
+      "longType": "W",
+      "lat": 8.57,
+      "latType": "N"
+    },
+    {
+      "name": "CHARCO AZUL",
+      "long": 82.52,
+      "longType": "W",
+      "lat": 8.13,
+      "latType": "N"
+    },
+    {
+      "name": "GOLFITO",
+      "long": 83.10,
+      "longType": "W",
+      "lat": 8.38,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO CALDERA",
+      "long": 84.43,
+      "longType": "W",
+      "lat": 9.55,
+      "latType": "N"
+    },
+    {
+      "name": "PUNTARENAS",
+      "long": 84.50,
+      "longType": "W",
+      "lat": 9.59,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO SANDINO",
+      "long": 86.46,
+      "longType": "W",
+      "lat": 12.11,
+      "latType": "N"
+    },
+    {
+      "name": "CORINTO",
+      "long": 87.10,
+      "longType": "W",
+      "lat": 12.29,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO DE SAN LORENZO",
+      "long": 87.27,
+      "longType": "W",
+      "lat": 13.24,
+      "latType": "N"
+    },
+    {
+      "name": "LEWISPORTE",
+      "long": 55.3,
+      "longType": "W",
+      "lat": 49.15,
+      "latType": "N"
+    },
+    {
+      "name": "LA UNION",
+      "long": 87.50,
+      "longType": "W",
+      "lat": 13.20,
+      "latType": "N"
+    },
+    {
+      "name": "ACAJUTLA",
+      "long": 89.50,
+      "longType": "W",
+      "lat": 13.35,
+      "latType": "N"
+    },
+    {
+      "name": "ACAJUTLA OFFSHORE TERMINAL",
+      "long": 89.52,
+      "longType": "W",
+      "lat": 13.35,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO QUETZAL",
+      "long": 90.48,
+      "longType": "W",
+      "lat": 13.55,
+      "latType": "N"
+    },
+    {
+      "name": "SALINA CRUZ",
+      "long": 95.12,
+      "longType": "W",
+      "lat": 16.10,
+      "latType": "N"
+    },
+    {
+      "name": "ACAPULCO",
+      "long": 99.56,
+      "longType": "W",
+      "lat": 16.51,
+      "latType": "N"
+    },
+    {
+      "name": "LAZARO CARDENAS",
+      "long": 102.10,
+      "longType": "W",
+      "lat": 17.56,
+      "latType": "N"
+    },
+    {
+      "name": "MANZANILLO",
+      "long": 104.19,
+      "longType": "W",
+      "lat": 19.3,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO VALLARTA",
+      "long": 105.16,
+      "longType": "W",
+      "lat": 20.37,
+      "latType": "N"
+    },
+    {
+      "name": "MAZATLAN",
+      "long": 106.25,
+      "longType": "W",
+      "lat": 23.12,
+      "latType": "N"
+    },
+    {
+      "name": "TOPOLOBAMPO",
+      "long": 109.4,
+      "longType": "W",
+      "lat": 25.36,
+      "latType": "N"
+    },
+    {
+      "name": "GUAYMAS",
+      "long": 110.55,
+      "longType": "W",
+      "lat": 27.55,
+      "latType": "N"
+    },
+    {
+      "name": "SAN JUAN DE LA COSTA",
+      "long": 110.42,
+      "longType": "W",
+      "lat": 24.24,
+      "latType": "N"
+    },
+    {
+      "name": "PICHILINGUE",
+      "long": 110.20,
+      "longType": "W",
+      "lat": 24.16,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO MORRO REDONDO",
+      "long": 115.11,
+      "longType": "W",
+      "lat": 28.3,
+      "latType": "N"
+    },
+    {
+      "name": "ENSENADA",
+      "long": 116.38,
+      "longType": "W",
+      "lat": 31.52,
+      "latType": "N"
+    },
+    {
+      "name": "ROSARITO",
+      "long": 117.6,
+      "longType": "W",
+      "lat": 32.22,
+      "latType": "N"
+    },
+    {
+      "name": "SAN DIEGO",
+      "long": 117.11,
+      "longType": "W",
+      "lat": 32.43,
+      "latType": "N"
+    },
+    {
+      "name": "LONG BEACH",
+      "long": 118.11,
+      "longType": "W",
+      "lat": 33.46,
+      "latType": "N"
+    },
+    {
+      "name": "LOS ANGELES",
+      "long": 118.15,
+      "longType": "W",
+      "lat": 33.45,
+      "latType": "N"
+    },
+    {
+      "name": "EL SEGUNDO",
+      "long": 118.26,
+      "longType": "W",
+      "lat": 33.55,
+      "latType": "N"
+    },
+    {
+      "name": "PORT HUENEME",
+      "long": 119.12,
+      "longType": "W",
+      "lat": 34.9,
+      "latType": "N"
+    },
+    {
+      "name": "VENTURA",
+      "long": 119.17,
+      "longType": "W",
+      "lat": 34.17,
+      "latType": "N"
+    },
+    {
+      "name": "CARPINTERIA",
+      "long": 119.31,
+      "longType": "W",
+      "lat": 34.23,
+      "latType": "N"
+    },
+    {
+      "name": "PORT SAN LUIS",
+      "long": 120.45,
+      "longType": "W",
+      "lat": 35.10,
+      "latType": "N"
+    },
+    {
+      "name": "SAN FRANCISCO",
+      "long": 122.25,
+      "longType": "W",
+      "lat": 37.49,
+      "latType": "N"
+    },
+    {
+      "name": "OAKLAND",
+      "long": 122.20,
+      "longType": "W",
+      "lat": 37.49,
+      "latType": "N"
+    },
+    {
+      "name": "POINT RICHMOND",
+      "long": 122.22,
+      "longType": "W",
+      "lat": 37.55,
+      "latType": "N"
+    },
+    {
+      "name": "BAY ROBERTS HARBOR",
+      "long": 53.16,
+      "longType": "W",
+      "lat": 47.35,
+      "latType": "N"
+    },
+    {
+      "name": "MARTINEZ",
+      "long": 122.8,
+      "longType": "W",
+      "lat": 38.2,
+      "latType": "N"
+    },
+    {
+      "name": "STOCKTON",
+      "long": 121.18,
+      "longType": "W",
+      "lat": 37.57,
+      "latType": "N"
+    },
+    {
+      "name": "SACRAMENTO",
+      "long": 121.30,
+      "longType": "W",
+      "lat": 38.35,
+      "latType": "N"
+    },
+    {
+      "name": "EUREKA",
+      "long": 124.11,
+      "longType": "W",
+      "lat": 40.48,
+      "latType": "N"
+    },
+    {
+      "name": "ST JOHN S",
+      "long": 52.42,
+      "longType": "W",
+      "lat": 47.34,
+      "latType": "N"
+    },
+    {
+      "name": "COOS BAY",
+      "long": 124.13,
+      "longType": "W",
+      "lat": 43.22,
+      "latType": "N"
+    },
+    {
+      "name": "TOLEDO",
+      "long": 123.56,
+      "longType": "W",
+      "lat": 44.37,
+      "latType": "N"
+    },
+    {
+      "name": "ASTORIA",
+      "long": 123.50,
+      "longType": "W",
+      "lat": 46.12,
+      "latType": "N"
+    },
+    {
+      "name": "LONGVIEW",
+      "long": 122.56,
+      "longType": "W",
+      "lat": 46.8,
+      "latType": "N"
+    },
+    {
+      "name": "KALAMA",
+      "long": 122.51,
+      "longType": "W",
+      "lat": 46.1,
+      "latType": "N"
+    },
+    {
+      "name": "PORTLAND",
+      "long": 122.40,
+      "longType": "W",
+      "lat": 45.31,
+      "latType": "N"
+    },
+    {
+      "name": "VANCOUVER",
+      "long": 122.41,
+      "longType": "W",
+      "lat": 45.38,
+      "latType": "N"
+    },
+    {
+      "name": "COME BY CHANCE HARBOR",
+      "long": 54.1,
+      "longType": "W",
+      "lat": 47.48,
+      "latType": "N"
+    },
+    {
+      "name": "BREMERTON",
+      "long": 122.39,
+      "longType": "W",
+      "lat": 47.34,
+      "latType": "N"
+    },
+    {
+      "name": "OLYMPIA",
+      "long": 122.54,
+      "longType": "W",
+      "lat": 47.3,
+      "latType": "N"
+    },
+    {
+      "name": "TACOMA",
+      "long": 122.25,
+      "longType": "W",
+      "lat": 47.17,
+      "latType": "N"
+    },
+    {
+      "name": "SEATTLE",
+      "long": 122.20,
+      "longType": "W",
+      "lat": 47.36,
+      "latType": "N"
+    },
+    {
+      "name": "EVERETT",
+      "long": 122.13,
+      "longType": "W",
+      "lat": 48.0,
+      "latType": "N"
+    },
+    {
+      "name": "ANACORTES",
+      "long": 122.37,
+      "longType": "W",
+      "lat": 48.31,
+      "latType": "N"
+    },
+    {
+      "name": "BELLINGHAM",
+      "long": 122.30,
+      "longType": "W",
+      "lat": 48.45,
+      "latType": "N"
+    },
+    {
+      "name": "CHERRY POINT",
+      "long": 122.45,
+      "longType": "W",
+      "lat": 48.52,
+      "latType": "N"
+    },
+    {
+      "name": "STEPHENVILLE",
+      "long": 58.32,
+      "longType": "W",
+      "lat": 48.32,
+      "latType": "N"
+    },
+    {
+      "name": "NEW WESTMINSTER",
+      "long": 122.55,
+      "longType": "W",
+      "lat": 49.12,
+      "latType": "N"
+    },
+    {
+      "name": "VANCOUVER",
+      "long": 123.7,
+      "longType": "W",
+      "lat": 49.17,
+      "latType": "N"
+    },
+    {
+      "name": "ST GEORGE S",
+      "long": 58.27,
+      "longType": "W",
+      "lat": 48.27,
+      "latType": "N"
+    },
+    {
+      "name": "SQUAMISH",
+      "long": 123.9,
+      "longType": "W",
+      "lat": 49.41,
+      "latType": "N"
+    },
+    {
+      "name": "CORNER BROOK",
+      "long": 57.57,
+      "longType": "W",
+      "lat": 48.57,
+      "latType": "N"
+    },
+    {
+      "name": "POWELL RIVER",
+      "long": 124.32,
+      "longType": "W",
+      "lat": 49.52,
+      "latType": "N"
+    },
+    {
+      "name": "CAMPBELL RIVER",
+      "long": 124.14,
+      "longType": "W",
+      "lat": 50.1,
+      "latType": "N"
+    },
+    {
+      "name": "BOLUNGAVIK",
+      "long": 23.14,
+      "longType": "W",
+      "lat": 66.10,
+      "latType": "N"
+    },
+    {
+      "name": "HARMAC",
+      "long": 123.51,
+      "longType": "W",
+      "lat": 49.8,
+      "latType": "N"
+    },
+    {
+      "name": "CHEMAINUS",
+      "long": 123.43,
+      "longType": "W",
+      "lat": 48.56,
+      "latType": "N"
+    },
+    {
+      "name": "CROFTON",
+      "long": 123.38,
+      "longType": "W",
+      "lat": 48.52,
+      "latType": "N"
+    },
+    {
+      "name": "COWICHAN BAY",
+      "long": 123.37,
+      "longType": "W",
+      "lat": 48.45,
+      "latType": "N"
+    },
+    {
+      "name": "SIDNEY",
+      "long": 123.23,
+      "longType": "W",
+      "lat": 48.39,
+      "latType": "N"
+    },
+    {
+      "name": "BAMBERTON",
+      "long": 123.31,
+      "longType": "W",
+      "lat": 48.33,
+      "latType": "N"
+    },
+    {
+      "name": "VICTORIA HARBOR",
+      "long": 123.23,
+      "longType": "W",
+      "lat": 48.26,
+      "latType": "N"
+    },
+    {
+      "name": "ESQUIMALT HARBOR",
+      "long": 123.26,
+      "longType": "W",
+      "lat": 48.26,
+      "latType": "N"
+    },
+    {
+      "name": "PORT ALBERNI",
+      "long": 124.49,
+      "longType": "W",
+      "lat": 49.14,
+      "latType": "N"
+    },
+    {
+      "name": "GOLD RIVER",
+      "long": 126.7,
+      "longType": "W",
+      "lat": 49.41,
+      "latType": "N"
+    },
+    {
+      "name": "TAHSIS",
+      "long": 126.40,
+      "longType": "W",
+      "lat": 49.55,
+      "latType": "N"
+    },
+    {
+      "name": "PORT ALICE",
+      "long": 127.27,
+      "longType": "W",
+      "lat": 50.23,
+      "latType": "N"
+    },
+    {
+      "name": "ALERT BAY",
+      "long": 126.56,
+      "longType": "W",
+      "lat": 50.35,
+      "latType": "N"
+    },
+    {
+      "name": "BELLA COOLA",
+      "long": 126.46,
+      "longType": "W",
+      "lat": 52.23,
+      "latType": "N"
+    },
+    {
+      "name": "KITIMAT",
+      "long": 128.41,
+      "longType": "W",
+      "lat": 54.0,
+      "latType": "N"
+    },
+    {
+      "name": "PORPOISE HARBOR",
+      "long": 130.17,
+      "longType": "W",
+      "lat": 54.13,
+      "latType": "N"
+    },
+    {
+      "name": "PRINCE RUPERT",
+      "long": 130.20,
+      "longType": "W",
+      "lat": 54.19,
+      "latType": "N"
+    },
+    {
+      "name": "PORT SIMPSON",
+      "long": 130.26,
+      "longType": "W",
+      "lat": 54.34,
+      "latType": "N"
+    },
+    {
+      "name": "STEWART",
+      "long": 130.0,
+      "longType": "W",
+      "lat": 55.56,
+      "latType": "N"
+    },
+    {
+      "name": "ISAFJORDUR",
+      "long": 23.7,
+      "longType": "W",
+      "lat": 66.4,
+      "latType": "N"
+    },
+    {
+      "name": "QUEEN CHARLOTTE",
+      "long": 132.5,
+      "longType": "W",
+      "lat": 53.15,
+      "latType": "N"
+    },
+    {
+      "name": "ALLIFORD BAY",
+      "long": 131.59,
+      "longType": "W",
+      "lat": 53.13,
+      "latType": "N"
+    },
+    {
+      "name": "METLAKATLA",
+      "long": 131.34,
+      "longType": "W",
+      "lat": 55.8,
+      "latType": "N"
+    },
+    {
+      "name": "KETCHIKAN",
+      "long": 131.39,
+      "longType": "W",
+      "lat": 55.20,
+      "latType": "N"
+    },
+    {
+      "name": "SEPT ILES",
+      "long": 66.23,
+      "longType": "W",
+      "lat": 50.12,
+      "latType": "N"
+    },
+    {
+      "name": "POINTE NOIRE",
+      "long": 66.29,
+      "longType": "W",
+      "lat": 50.10,
+      "latType": "N"
+    },
+    {
+      "name": "PORT CARTIER",
+      "long": 66.47,
+      "longType": "W",
+      "lat": 50.2,
+      "latType": "N"
+    },
+    {
+      "name": "SKAGWAY",
+      "long": 135.20,
+      "longType": "W",
+      "lat": 59.27,
+      "latType": "N"
+    },
+    {
+      "name": "VALDEZ",
+      "long": 146.15,
+      "longType": "W",
+      "lat": 61.7,
+      "latType": "N"
+    },
+    {
+      "name": "HOMER",
+      "long": 151.25,
+      "longType": "W",
+      "lat": 59.36,
+      "latType": "N"
+    },
+    {
+      "name": "NIKISKI",
+      "long": 151.24,
+      "longType": "W",
+      "lat": 60.41,
+      "latType": "N"
+    },
+    {
+      "name": "ANCHORAGE",
+      "long": 149.54,
+      "longType": "W",
+      "lat": 61.13,
+      "latType": "N"
+    },
+    {
+      "name": "KODIAK",
+      "long": 152.24,
+      "longType": "W",
+      "lat": 57.47,
+      "latType": "N"
+    },
+    {
+      "name": "ADAK NAVAL AIR STATION",
+      "long": 176.38,
+      "longType": "W",
+      "lat": 51.52,
+      "latType": "N"
+    },
+    {
+      "name": "BAIE COMEAU",
+      "long": 68.8,
+      "longType": "W",
+      "lat": 49.14,
+      "latType": "N"
+    },
+    {
+      "name": "HONNINGSVAG",
+      "long": 26.0,
+      "longType": "E",
+      "lat": 70.59,
+      "latType": "N"
+    },
+    {
+      "name": "LA BAIE (PORT ALFRED)",
+      "long": 70.53,
+      "longType": "W",
+      "lat": 48.20,
+      "latType": "N"
+    },
+    {
+      "name": "QUEBEC",
+      "long": 71.13,
+      "longType": "W",
+      "lat": 46.49,
+      "latType": "N"
+    },
+    {
+      "name": "NARVIK",
+      "long": 17.25,
+      "longType": "E",
+      "lat": 68.26,
+      "latType": "N"
+    },
+    {
+      "name": "TROIS RIVIERES",
+      "long": 72.33,
+      "longType": "W",
+      "lat": 46.21,
+      "latType": "N"
+    },
+    {
+      "name": "SOREL",
+      "long": 73.7,
+      "longType": "W",
+      "lat": 46.3,
+      "latType": "N"
+    },
+    {
+      "name": "BODO",
+      "long": 14.23,
+      "longType": "E",
+      "lat": 67.17,
+      "latType": "N"
+    },
+    {
+      "name": "MONTREAL",
+      "long": 73.33,
+      "longType": "W",
+      "lat": 45.31,
+      "latType": "N"
+    },
+    {
+      "name": "MO INLET",
+      "long": 14.8,
+      "longType": "E",
+      "lat": 66.19,
+      "latType": "N"
+    },
+    {
+      "name": "THAMSHAMM",
+      "long": 9.53,
+      "longType": "E",
+      "lat": 63.19,
+      "latType": "N"
+    },
+    {
+      "name": "ALESUND",
+      "long": 6.10,
+      "longType": "E",
+      "lat": 62.28,
+      "latType": "N"
+    },
+    {
+      "name": "ARDALSTANGEN",
+      "long": 7.43,
+      "longType": "E",
+      "lat": 61.14,
+      "latType": "N"
+    },
+    {
+      "name": "STURA",
+      "long": 4.51,
+      "longType": "E",
+      "lat": 60.37,
+      "latType": "N"
+    },
+    {
+      "name": "BERGEN",
+      "long": 5.19,
+      "longType": "E",
+      "lat": 60.24,
+      "latType": "N"
+    },
+    {
+      "name": "TRANNESET",
+      "long": 5.1,
+      "longType": "E",
+      "lat": 60.25,
+      "latType": "N"
+    },
+    {
+      "name": "HUSNES",
+      "long": 5.46,
+      "longType": "E",
+      "lat": 59.52,
+      "latType": "N"
+    },
+    {
+      "name": "KARSTO",
+      "long": 5.31,
+      "longType": "E",
+      "lat": 59.16,
+      "latType": "N"
+    },
+    {
+      "name": "STAVANGER",
+      "long": 5.45,
+      "longType": "E",
+      "lat": 58.58,
+      "latType": "N"
+    },
+    {
+      "name": "KRISTIANSAND",
+      "long": 8.0,
+      "longType": "E",
+      "lat": 58.9,
+      "latType": "N"
+    },
+    {
+      "name": "KRAGERO",
+      "long": 9.25,
+      "longType": "E",
+      "lat": 58.52,
+      "latType": "N"
+    },
+    {
+      "name": "PORSGRUNN",
+      "long": 9.40,
+      "longType": "E",
+      "lat": 59.9,
+      "latType": "N"
+    },
+    {
+      "name": "SANDEFJORDEN",
+      "long": 10.14,
+      "longType": "E",
+      "lat": 59.7,
+      "latType": "N"
+    },
+    {
+      "name": "TONSBERG",
+      "long": 10.25,
+      "longType": "E",
+      "lat": 59.17,
+      "latType": "N"
+    },
+    {
+      "name": "DRAMMEN",
+      "long": 10.15,
+      "longType": "E",
+      "lat": 59.44,
+      "latType": "N"
+    },
+    {
+      "name": "OSLO",
+      "long": 10.45,
+      "longType": "E",
+      "lat": 59.55,
+      "latType": "N"
+    },
+    {
+      "name": "MOSS",
+      "long": 10.40,
+      "longType": "E",
+      "lat": 59.27,
+      "latType": "N"
+    },
+    {
+      "name": "FREDRIKSTAD",
+      "long": 10.57,
+      "longType": "E",
+      "lat": 59.12,
+      "latType": "N"
+    },
+    {
+      "name": "HALDEN",
+      "long": 11.23,
+      "longType": "E",
+      "lat": 59.7,
+      "latType": "N"
+    },
+    {
+      "name": "LYSEKIL",
+      "long": 11.26,
+      "longType": "E",
+      "lat": 58.16,
+      "latType": "N"
+    },
+    {
+      "name": "GOTEBORG",
+      "long": 11.58,
+      "longType": "E",
+      "lat": 57.42,
+      "latType": "N"
+    },
+    {
+      "name": "LIMHAMN",
+      "long": 12.56,
+      "longType": "E",
+      "lat": 55.35,
+      "latType": "N"
+    },
+    {
+      "name": "TRELLEBORG",
+      "long": 13.9,
+      "longType": "E",
+      "lat": 55.22,
+      "latType": "N"
+    },
+    {
+      "name": "HARGSHAMN",
+      "long": 18.27,
+      "longType": "E",
+      "lat": 60.11,
+      "latType": "N"
+    },
+    {
+      "name": "SKUTSKAR",
+      "long": 17.24,
+      "longType": "E",
+      "lat": 60.39,
+      "latType": "N"
+    },
+    {
+      "name": "SANDARNE",
+      "long": 17.11,
+      "longType": "E",
+      "lat": 61.16,
+      "latType": "N"
+    },
+    {
+      "name": "SODERHAMN",
+      "long": 17.5,
+      "longType": "E",
+      "lat": 61.18,
+      "latType": "N"
+    },
+    {
+      "name": "HARNOSAND",
+      "long": 17.56,
+      "longType": "E",
+      "lat": 62.38,
+      "latType": "N"
+    },
+    {
+      "name": "ULVVIK",
+      "long": 17.52,
+      "longType": "E",
+      "lat": 62.40,
+      "latType": "N"
+    },
+    {
+      "name": "UTANSJO",
+      "long": 17.56,
+      "longType": "E",
+      "lat": 62.46,
+      "latType": "N"
+    },
+    {
+      "name": "LUNDE",
+      "long": 17.53,
+      "longType": "E",
+      "lat": 62.53,
+      "latType": "N"
+    },
+    {
+      "name": "KRAMFORS",
+      "long": 17.48,
+      "longType": "E",
+      "lat": 62.56,
+      "latType": "N"
+    },
+    {
+      "name": "VAJA",
+      "long": 17.43,
+      "longType": "E",
+      "lat": 62.59,
+      "latType": "N"
+    },
+    {
+      "name": "BOLLSTABRUK",
+      "long": 17.42,
+      "longType": "E",
+      "lat": 63.0,
+      "latType": "N"
+    },
+    {
+      "name": "KARLSBORG",
+      "long": 23.17,
+      "longType": "E",
+      "lat": 65.48,
+      "latType": "N"
+    },
+    {
+      "name": "KOKKOLA",
+      "long": 23.1,
+      "longType": "E",
+      "lat": 63.51,
+      "latType": "N"
+    },
+    {
+      "name": "VAASA",
+      "long": 21.35,
+      "longType": "E",
+      "lat": 63.6,
+      "latType": "N"
+    },
+    {
+      "name": "TAHKOLUOTO",
+      "long": 21.24,
+      "longType": "E",
+      "lat": 61.38,
+      "latType": "N"
+    },
+    {
+      "name": "HELSINKI",
+      "long": 24.58,
+      "longType": "E",
+      "lat": 60.10,
+      "latType": "N"
+    },
+    {
+      "name": "PORVOO",
+      "long": 25.38,
+      "longType": "E",
+      "lat": 60.18,
+      "latType": "N"
+    },
+    {
+      "name": "HAMINA",
+      "long": 27.12,
+      "longType": "E",
+      "lat": 60.34,
+      "latType": "N"
+    },
+    {
+      "name": "KRONSHTADT",
+      "long": 29.47,
+      "longType": "E",
+      "lat": 59.59,
+      "latType": "N"
+    },
+    {
+      "name": "RIGA",
+      "long": 24.6,
+      "longType": "E",
+      "lat": 56.57,
+      "latType": "N"
+    },
+    {
+      "name": "BUTINGE OIL TERMINAL",
+      "long": 20.57,
+      "longType": "E",
+      "lat": 56.2,
+      "latType": "N"
+    },
+    {
+      "name": "BALTIYSK",
+      "long": 19.54,
+      "longType": "E",
+      "lat": 54.38,
+      "latType": "N"
+    },
+    {
+      "name": "GDANSK",
+      "long": 18.40,
+      "longType": "E",
+      "lat": 54.21,
+      "latType": "N"
+    },
+    {
+      "name": "SASSNITZ",
+      "long": 13.39,
+      "longType": "E",
+      "lat": 54.31,
+      "latType": "N"
+    },
+    {
+      "name": "LUBECK-TRAVEMUNDE",
+      "long": 10.53,
+      "longType": "E",
+      "lat": 53.58,
+      "latType": "N"
+    },
+    {
+      "name": "RONNE",
+      "long": 14.42,
+      "longType": "E",
+      "lat": 55.6,
+      "latType": "N"
+    },
+    {
+      "name": "KOBENHAVN",
+      "long": 12.37,
+      "longType": "E",
+      "lat": 55.42,
+      "latType": "N"
+    },
+    {
+      "name": "HELSINGOR",
+      "long": 12.37,
+      "longType": "E",
+      "lat": 56.2,
+      "latType": "N"
+    },
+    {
+      "name": "KALUNDBORG",
+      "long": 11.6,
+      "longType": "E",
+      "lat": 55.41,
+      "latType": "N"
+    },
+    {
+      "name": "NAKSKOV",
+      "long": 11.8,
+      "longType": "E",
+      "lat": 54.50,
+      "latType": "N"
+    },
+    {
+      "name": "CONTRECOUR",
+      "long": 73.12,
+      "longType": "W",
+      "lat": 45.53,
+      "latType": "N"
+    },
+    {
+      "name": "TORONTO",
+      "long": 79.23,
+      "longType": "W",
+      "lat": 43.37,
+      "latType": "N"
+    },
+    {
+      "name": "PORT CREDIT",
+      "long": 79.35,
+      "longType": "W",
+      "lat": 43.33,
+      "latType": "N"
+    },
+    {
+      "name": "ABENRA",
+      "long": 9.26,
+      "longType": "E",
+      "lat": 55.3,
+      "latType": "N"
+    },
+    {
+      "name": "CLARKSON",
+      "long": 79.36,
+      "longType": "W",
+      "lat": 43.30,
+      "latType": "N"
+    },
+    {
+      "name": "ARHUS",
+      "long": 10.13,
+      "longType": "E",
+      "lat": 56.9,
+      "latType": "N"
+    },
+    {
+      "name": "ALBORG",
+      "long": 9.56,
+      "longType": "E",
+      "lat": 57.3,
+      "latType": "N"
+    },
+    {
+      "name": "HAMILTON",
+      "long": 79.51,
+      "longType": "W",
+      "lat": 43.15,
+      "latType": "N"
+    },
+    {
+      "name": "PORT WELLER",
+      "long": 79.13,
+      "longType": "W",
+      "lat": 43.14,
+      "latType": "N"
+    },
+    {
+      "name": "BRUNSBUTTEL ELBAHAFEN",
+      "long": 9.10,
+      "longType": "E",
+      "lat": 53.53,
+      "latType": "N"
+    },
+    {
+      "name": "WELLAND",
+      "long": 79.15,
+      "longType": "W",
+      "lat": 43.0,
+      "latType": "N"
+    },
+    {
+      "name": "THOROLD",
+      "long": 79.43,
+      "longType": "W",
+      "lat": 43.5,
+      "latType": "N"
+    },
+    {
+      "name": "ST CATHERINE",
+      "long": 79.17,
+      "longType": "W",
+      "lat": 43.11,
+      "latType": "N"
+    },
+    {
+      "name": "EUROPOORT",
+      "long": 4.7,
+      "longType": "E",
+      "lat": 51.57,
+      "latType": "N"
+    },
+    {
+      "name": "ROTTERDAM",
+      "long": 4.29,
+      "longType": "E",
+      "lat": 51.54,
+      "latType": "N"
+    },
+    {
+      "name": "DORDRECHT",
+      "long": 4.39,
+      "longType": "E",
+      "lat": 51.49,
+      "latType": "N"
+    },
+    {
+      "name": "GHENT",
+      "long": 3.44,
+      "longType": "E",
+      "lat": 51.4,
+      "latType": "N"
+    },
+    {
+      "name": "ZEEBRUGGE",
+      "long": 3.12,
+      "longType": "E",
+      "lat": 51.20,
+      "latType": "N"
+    },
+    {
+      "name": "ISLE OF GRAIN",
+      "long": 0.42,
+      "longType": "E",
+      "lat": 51.26,
+      "latType": "N"
+    },
+    {
+      "name": "THAMESPORT",
+      "long": 0.42,
+      "longType": "E",
+      "lat": 51.26,
+      "latType": "N"
+    },
+    {
+      "name": "LONDON",
+      "long": 0.5,
+      "longType": "W",
+      "lat": 51.30,
+      "latType": "N"
+    },
+    {
+      "name": "HARWICH",
+      "long": 1.17,
+      "longType": "E",
+      "lat": 51.57,
+      "latType": "N"
+    },
+    {
+      "name": "FELIXSTOWE",
+      "long": 1.19,
+      "longType": "E",
+      "lat": 51.57,
+      "latType": "N"
+    },
+    {
+      "name": "IMMINGHAM",
+      "long": 0.12,
+      "longType": "W",
+      "lat": 53.38,
+      "latType": "N"
+    },
+    {
+      "name": "KINGSTON UPON HULL",
+      "long": 0.17,
+      "longType": "W",
+      "lat": 53.45,
+      "latType": "N"
+    },
+    {
+      "name": "HARTLEPOOL",
+      "long": 1.11,
+      "longType": "W",
+      "lat": 54.42,
+      "latType": "N"
+    },
+    {
+      "name": "SUNDERLAND",
+      "long": 1.22,
+      "longType": "W",
+      "lat": 54.55,
+      "latType": "N"
+    },
+    {
+      "name": "TYNEMOUTH",
+      "long": 1.24,
+      "longType": "W",
+      "lat": 55.0,
+      "latType": "N"
+    },
+    {
+      "name": "HOUND POINT TERMINAL",
+      "long": 3.22,
+      "longType": "W",
+      "lat": 56.0,
+      "latType": "N"
+    },
+    {
+      "name": "DUNDEE",
+      "long": 2.57,
+      "longType": "W",
+      "lat": 56.28,
+      "latType": "N"
+    },
+    {
+      "name": "MONTROSE",
+      "long": 2.28,
+      "longType": "W",
+      "lat": 56.42,
+      "latType": "N"
+    },
+    {
+      "name": "ABERDEEN",
+      "long": 2.5,
+      "longType": "W",
+      "lat": 57.9,
+      "latType": "N"
+    },
+    {
+      "name": "PETERHEAD",
+      "long": 1.47,
+      "longType": "W",
+      "lat": 57.30,
+      "latType": "N"
+    },
+    {
+      "name": "INVERGORDON",
+      "long": 4.10,
+      "longType": "W",
+      "lat": 57.41,
+      "latType": "N"
+    },
+    {
+      "name": "PORT COLBORNE",
+      "long": 79.15,
+      "longType": "W",
+      "lat": 42.53,
+      "latType": "N"
+    },
+    {
+      "name": "SCAPA BAY",
+      "long": 2.59,
+      "longType": "W",
+      "lat": 58.57,
+      "latType": "N"
+    },
+    {
+      "name": "LERWICK",
+      "long": 1.9,
+      "longType": "W",
+      "lat": 60.9,
+      "latType": "N"
+    },
+    {
+      "name": "SULLOM VOE",
+      "long": 1.18,
+      "longType": "W",
+      "lat": 60.28,
+      "latType": "N"
+    },
+    {
+      "name": "TORSHAVN",
+      "long": 6.45,
+      "longType": "W",
+      "lat": 62.0,
+      "latType": "N"
+    },
+    {
+      "name": "SCRABSTER HARBOR",
+      "long": 3.33,
+      "longType": "W",
+      "lat": 58.37,
+      "latType": "N"
+    },
+    {
+      "name": "GLENSANDA",
+      "long": 5.32,
+      "longType": "W",
+      "lat": 56.34,
+      "latType": "N"
+    },
+    {
+      "name": "LAMLASH HARBOR",
+      "long": 5.7,
+      "longType": "W",
+      "lat": 55.32,
+      "latType": "N"
+    },
+    {
+      "name": "GREENOCK",
+      "long": 4.45,
+      "longType": "W",
+      "lat": 55.57,
+      "latType": "N"
+    },
+    {
+      "name": "FINNART OIL TERMINAL",
+      "long": 4.50,
+      "longType": "W",
+      "lat": 56.7,
+      "latType": "N"
+    },
+    {
+      "name": "GLASGOW",
+      "long": 4.17,
+      "longType": "W",
+      "lat": 55.52,
+      "latType": "N"
+    },
+    {
+      "name": "HUNTERSTON",
+      "long": 4.53,
+      "longType": "W",
+      "lat": 55.45,
+      "latType": "N"
+    },
+    {
+      "name": "BELFAST",
+      "long": 5.54,
+      "longType": "W",
+      "lat": 54.37,
+      "latType": "N"
+    },
+    {
+      "name": "LARNE",
+      "long": 5.48,
+      "longType": "W",
+      "lat": 54.51,
+      "latType": "N"
+    },
+    {
+      "name": "LONDONDERRY",
+      "long": 7.19,
+      "longType": "W",
+      "lat": 55.0,
+      "latType": "N"
+    },
+    {
+      "name": "KILLYBEGS",
+      "long": 8.27,
+      "longType": "W",
+      "lat": 54.38,
+      "latType": "N"
+    },
+    {
+      "name": "FOYNES",
+      "long": 9.7,
+      "longType": "W",
+      "lat": 52.37,
+      "latType": "N"
+    },
+    {
+      "name": "TARBERT",
+      "long": 9.22,
+      "longType": "W",
+      "lat": 52.35,
+      "latType": "N"
+    },
+    {
+      "name": "BANTRY",
+      "long": 9.27,
+      "longType": "W",
+      "lat": 51.41,
+      "latType": "N"
+    },
+    {
+      "name": "BUFFALO",
+      "long": 78.53,
+      "longType": "W",
+      "lat": 42.53,
+      "latType": "N"
+    },
+    {
+      "name": "WATERFORD",
+      "long": 7.7,
+      "longType": "W",
+      "lat": 52.16,
+      "latType": "N"
+    },
+    {
+      "name": "DUBLIN",
+      "long": 6.15,
+      "longType": "W",
+      "lat": 53.21,
+      "latType": "N"
+    },
+    {
+      "name": "ERIE",
+      "long": 80.6,
+      "longType": "W",
+      "lat": 42.9,
+      "latType": "N"
+    },
+    {
+      "name": "GREENORE",
+      "long": 6.8,
+      "longType": "W",
+      "lat": 54.2,
+      "latType": "N"
+    },
+    {
+      "name": "LIVERPOOL",
+      "long": 3.0,
+      "longType": "W",
+      "lat": 53.25,
+      "latType": "N"
+    },
+    {
+      "name": "FISHGUARD",
+      "long": 4.59,
+      "longType": "W",
+      "lat": 52.1,
+      "latType": "N"
+    },
+    {
+      "name": "MILFORD HAVEN",
+      "long": 5.2,
+      "longType": "W",
+      "lat": 51.43,
+      "latType": "N"
+    },
+    {
+      "name": "CLEVELAND",
+      "long": 81.43,
+      "longType": "W",
+      "lat": 41.30,
+      "latType": "N"
+    },
+    {
+      "name": "SWANSEA",
+      "long": 3.57,
+      "longType": "W",
+      "lat": 51.37,
+      "latType": "N"
+    },
+    {
+      "name": "LORAIN",
+      "long": 82.11,
+      "longType": "W",
+      "lat": 41.28,
+      "latType": "N"
+    },
+    {
+      "name": "NEWPORT",
+      "long": 2.59,
+      "longType": "W",
+      "lat": 51.33,
+      "latType": "N"
+    },
+    {
+      "name": "SHARPNESS",
+      "long": 2.29,
+      "longType": "W",
+      "lat": 51.43,
+      "latType": "N"
+    },
+    {
+      "name": "HURON",
+      "long": 82.33,
+      "longType": "W",
+      "lat": 41.24,
+      "latType": "N"
+    },
+    {
+      "name": "NEWLYN",
+      "long": 5.33,
+      "longType": "W",
+      "lat": 50.6,
+      "latType": "N"
+    },
+    {
+      "name": "FALMOUTH HARBOUR",
+      "long": 5.4,
+      "longType": "W",
+      "lat": 50.9,
+      "latType": "N"
+    },
+    {
+      "name": "PORTLAND HARBOUR",
+      "long": 2.26,
+      "longType": "W",
+      "lat": 50.35,
+      "latType": "N"
+    },
+    {
+      "name": "SOUTHAMPTON",
+      "long": 1.24,
+      "longType": "W",
+      "lat": 50.54,
+      "latType": "N"
+    },
+    {
+      "name": "FAWLEY MARINE TERMINAL",
+      "long": 1.20,
+      "longType": "W",
+      "lat": 50.49,
+      "latType": "N"
+    },
+    {
+      "name": "TOLEDO",
+      "long": 83.28,
+      "longType": "W",
+      "lat": 41.42,
+      "latType": "N"
+    },
+    {
+      "name": "NEWHAVEN HARBOUR",
+      "long": 0.3,
+      "longType": "E",
+      "lat": 50.47,
+      "latType": "N"
+    },
+    {
+      "name": "MONROE",
+      "long": 83.20,
+      "longType": "W",
+      "lat": 41.53,
+      "latType": "N"
+    },
+    {
+      "name": "DOVER HARBOR",
+      "long": 1.20,
+      "longType": "E",
+      "lat": 51.7,
+      "latType": "N"
+    },
+    {
+      "name": "DUNKERQUE PORT EST",
+      "long": 2.23,
+      "longType": "E",
+      "lat": 51.3,
+      "latType": "N"
+    },
+    {
+      "name": "DUNKERQUE PORT OUEST",
+      "long": 2.21,
+      "longType": "E",
+      "lat": 51.4,
+      "latType": "N"
+    },
+    {
+      "name": "PORT DU HAVRE-ANTIFER",
+      "long": 0.9,
+      "longType": "E",
+      "lat": 49.39,
+      "latType": "N"
+    },
+    {
+      "name": "PORT OF LE HAVRE",
+      "long": 0.7,
+      "longType": "E",
+      "lat": 49.29,
+      "latType": "N"
+    },
+    {
+      "name": "DETROIT",
+      "long": 83.2,
+      "longType": "W",
+      "lat": 42.20,
+      "latType": "N"
+    },
+    {
+      "name": "ST NAZAIRE",
+      "long": 2.12,
+      "longType": "W",
+      "lat": 47.17,
+      "latType": "N"
+    },
+    {
+      "name": "DONGES",
+      "long": 2.4,
+      "longType": "W",
+      "lat": 47.18,
+      "latType": "N"
+    },
+    {
+      "name": "NANTES",
+      "long": 1.34,
+      "longType": "W",
+      "lat": 47.12,
+      "latType": "N"
+    },
+    {
+      "name": "SARNIA",
+      "long": 82.25,
+      "longType": "W",
+      "lat": 42.59,
+      "latType": "N"
+    },
+    {
+      "name": "LA PALLICE",
+      "long": 1.13,
+      "longType": "W",
+      "lat": 46.10,
+      "latType": "N"
+    },
+    {
+      "name": "LA ROCHELLE",
+      "long": 1.9,
+      "longType": "W",
+      "lat": 46.9,
+      "latType": "N"
+    },
+    {
+      "name": "POINT EDWARD",
+      "long": 82.25,
+      "longType": "W",
+      "lat": 43.0,
+      "latType": "N"
+    },
+    {
+      "name": "LE VERDON",
+      "long": 1.3,
+      "longType": "W",
+      "lat": 45.33,
+      "latType": "N"
+    },
+    {
+      "name": "PAUILLAC",
+      "long": 0.45,
+      "longType": "W",
+      "lat": 45.12,
+      "latType": "N"
+    },
+    {
+      "name": "BLAYE",
+      "long": 0.40,
+      "longType": "W",
+      "lat": 45.8,
+      "latType": "N"
+    },
+    {
+      "name": "AMBES",
+      "long": 0.32,
+      "longType": "W",
+      "lat": 45.1,
+      "latType": "N"
+    },
+    {
+      "name": "BORDEAUX",
+      "long": 0.34,
+      "longType": "W",
+      "lat": 44.52,
+      "latType": "N"
+    },
+    {
+      "name": "BAYONNE",
+      "long": 1.28,
+      "longType": "W",
+      "lat": 43.30,
+      "latType": "N"
+    },
+    {
+      "name": "GODERICH",
+      "long": 81.44,
+      "longType": "W",
+      "lat": 43.45,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO DE BILBAO",
+      "long": 3.3,
+      "longType": "W",
+      "lat": 43.21,
+      "latType": "N"
+    },
+    {
+      "name": "SANTANDER",
+      "long": 3.47,
+      "longType": "W",
+      "lat": 43.28,
+      "latType": "N"
+    },
+    {
+      "name": "RIBADEO",
+      "long": 7.2,
+      "longType": "W",
+      "lat": 43.32,
+      "latType": "N"
+    },
+    {
+      "name": "LA CORUNA",
+      "long": 8.24,
+      "longType": "W",
+      "lat": 43.22,
+      "latType": "N"
+    },
+    {
+      "name": "VIANA DO CASTELO",
+      "long": 8.50,
+      "longType": "W",
+      "lat": 41.42,
+      "latType": "N"
+    },
+    {
+      "name": "PORTO DE LEIXOES",
+      "long": 8.42,
+      "longType": "W",
+      "lat": 41.11,
+      "latType": "N"
+    },
+    {
+      "name": "LISBOA",
+      "long": 9.10,
+      "longType": "W",
+      "lat": 38.42,
+      "latType": "N"
+    },
+    {
+      "name": "SETUBAL",
+      "long": 8.54,
+      "longType": "W",
+      "lat": 38.31,
+      "latType": "N"
+    },
+    {
+      "name": "VILA DO PORTO",
+      "long": 25.9,
+      "longType": "W",
+      "lat": 36.56,
+      "latType": "N"
+    },
+    {
+      "name": "FUNCHAL",
+      "long": 16.55,
+      "longType": "W",
+      "lat": 32.38,
+      "latType": "N"
+    },
+    {
+      "name": "SANTA CRUZ DE LA PALMA",
+      "long": 17.45,
+      "longType": "W",
+      "lat": 28.41,
+      "latType": "N"
+    },
+    {
+      "name": "SANTA CRUZ DE TENERIFE",
+      "long": 16.14,
+      "longType": "W",
+      "lat": 28.28,
+      "latType": "N"
+    },
+    {
+      "name": "LAS PALMAS",
+      "long": 15.25,
+      "longType": "W",
+      "lat": 28.9,
+      "latType": "N"
+    },
+    {
+      "name": "ROTA",
+      "long": 6.20,
+      "longType": "W",
+      "lat": 36.37,
+      "latType": "N"
+    },
+    {
+      "name": "ALGECIRAS",
+      "long": 5.26,
+      "longType": "W",
+      "lat": 36.8,
+      "latType": "N"
+    },
+    {
+      "name": "EUROPA POINT",
+      "long": 5.21,
+      "longType": "W",
+      "lat": 36.8,
+      "latType": "N"
+    },
+    {
+      "name": "MALAGA",
+      "long": 4.25,
+      "longType": "W",
+      "lat": 36.43,
+      "latType": "N"
+    },
+    {
+      "name": "CARTAGENA",
+      "long": 0.59,
+      "longType": "W",
+      "lat": 37.35,
+      "latType": "N"
+    },
+    {
+      "name": "SAGUNTO",
+      "long": 0.13,
+      "longType": "W",
+      "lat": 39.39,
+      "latType": "N"
+    },
+    {
+      "name": "BARCELONA",
+      "long": 2.10,
+      "longType": "E",
+      "lat": 41.21,
+      "latType": "N"
+    },
+    {
+      "name": "OWEN SOUND",
+      "long": 80.56,
+      "longType": "W",
+      "lat": 44.35,
+      "latType": "N"
+    },
+    {
+      "name": "PALMA DE MALLORCA",
+      "long": 2.38,
+      "longType": "E",
+      "lat": 39.34,
+      "latType": "N"
+    },
+    {
+      "name": "PORT SAINT LOUIS DU RHONE",
+      "long": 4.49,
+      "longType": "E",
+      "lat": 43.23,
+      "latType": "N"
+    },
+    {
+      "name": "FOS",
+      "long": 4.53,
+      "longType": "E",
+      "lat": 43.25,
+      "latType": "N"
+    },
+    {
+      "name": "PORT-DE-BOUC",
+      "long": 4.59,
+      "longType": "E",
+      "lat": 43.24,
+      "latType": "N"
+    },
+    {
+      "name": "MARSEILLE",
+      "long": 5.22,
+      "longType": "E",
+      "lat": 43.19,
+      "latType": "N"
+    },
+    {
+      "name": "TOULON",
+      "long": 5.55,
+      "longType": "E",
+      "lat": 43.6,
+      "latType": "N"
+    },
+    {
+      "name": "PORT D  AJACCIO",
+      "long": 8.45,
+      "longType": "E",
+      "lat": 41.55,
+      "latType": "N"
+    },
+    {
+      "name": "LA MADDALENA",
+      "long": 9.25,
+      "longType": "E",
+      "lat": 41.12,
+      "latType": "N"
+    },
+    {
+      "name": "ARBATAX",
+      "long": 9.42,
+      "longType": "E",
+      "lat": 39.56,
+      "latType": "N"
+    },
+    {
+      "name": "CAGLIARI",
+      "long": 9.7,
+      "longType": "E",
+      "lat": 39.13,
+      "latType": "N"
+    },
+    {
+      "name": "SARROCH OIL TERMINAL",
+      "long": 9.2,
+      "longType": "E",
+      "lat": 39.5,
+      "latType": "N"
+    },
+    {
+      "name": "PORTO VESME",
+      "long": 8.24,
+      "longType": "E",
+      "lat": 39.12,
+      "latType": "N"
+    },
+    {
+      "name": "PORTO DI ORISTANO",
+      "long": 8.33,
+      "longType": "E",
+      "lat": 39.52,
+      "latType": "N"
+    },
+    {
+      "name": "LA SPEZIA",
+      "long": 9.50,
+      "longType": "E",
+      "lat": 44.6,
+      "latType": "N"
+    },
+    {
+      "name": "LIVORNO",
+      "long": 10.19,
+      "longType": "E",
+      "lat": 43.33,
+      "latType": "N"
+    },
+    {
+      "name": "BAGNOLI",
+      "long": 14.10,
+      "longType": "E",
+      "lat": 40.49,
+      "latType": "N"
+    },
+    {
+      "name": "NAPOLI",
+      "long": 14.16,
+      "longType": "E",
+      "lat": 40.51,
+      "latType": "N"
+    },
+    {
+      "name": "MESSINA",
+      "long": 15.34,
+      "longType": "E",
+      "lat": 38.12,
+      "latType": "N"
+    },
+    {
+      "name": "PORTO DI PALERMO",
+      "long": 13.22,
+      "longType": "E",
+      "lat": 38.8,
+      "latType": "N"
+    },
+    {
+      "name": "PORTO EMPEDOCLE",
+      "long": 13.32,
+      "longType": "E",
+      "lat": 37.17,
+      "latType": "N"
+    },
+    {
+      "name": "POZZALLO",
+      "long": 14.51,
+      "longType": "E",
+      "lat": 36.43,
+      "latType": "N"
+    },
+    {
+      "name": "SIRACUSA",
+      "long": 15.17,
+      "longType": "E",
+      "lat": 37.3,
+      "latType": "N"
+    },
+    {
+      "name": "MELILLI OIL TERMINAL",
+      "long": 15.15,
+      "longType": "E",
+      "lat": 37.7,
+      "latType": "N"
+    },
+    {
+      "name": "PARRY SOUND",
+      "long": 80.2,
+      "longType": "W",
+      "lat": 45.20,
+      "latType": "N"
+    },
+    {
+      "name": "TARANTO",
+      "long": 17.12,
+      "longType": "E",
+      "lat": 40.28,
+      "latType": "N"
+    },
+    {
+      "name": "BRINDISI",
+      "long": 17.59,
+      "longType": "E",
+      "lat": 40.39,
+      "latType": "N"
+    },
+    {
+      "name": "ANCONA",
+      "long": 13.30,
+      "longType": "E",
+      "lat": 43.37,
+      "latType": "N"
+    },
+    {
+      "name": "PORTO DI CHIOGGIA",
+      "long": 12.18,
+      "longType": "E",
+      "lat": 45.14,
+      "latType": "N"
+    },
+    {
+      "name": "PORTO DI LIDO-VENEZIA",
+      "long": 12.26,
+      "longType": "E",
+      "lat": 45.25,
+      "latType": "N"
+    },
+    {
+      "name": "MONFALCONE",
+      "long": 13.33,
+      "longType": "E",
+      "lat": 45.47,
+      "latType": "N"
+    },
+    {
+      "name": "TRIESTE",
+      "long": 13.46,
+      "longType": "E",
+      "lat": 45.39,
+      "latType": "N"
+    },
+    {
+      "name": "PULA",
+      "long": 13.48,
+      "longType": "E",
+      "lat": 44.53,
+      "latType": "N"
+    },
+    {
+      "name": "BAKAR",
+      "long": 14.32,
+      "longType": "E",
+      "lat": 45.18,
+      "latType": "N"
+    },
+    {
+      "name": "OMISALJ",
+      "long": 14.33,
+      "longType": "E",
+      "lat": 45.13,
+      "latType": "N"
+    },
+    {
+      "name": "SPLIT",
+      "long": 16.26,
+      "longType": "E",
+      "lat": 43.30,
+      "latType": "N"
+    },
+    {
+      "name": "BAR",
+      "long": 19.5,
+      "longType": "E",
+      "lat": 42.5,
+      "latType": "N"
+    },
+    {
+      "name": "ARGOSTOLION",
+      "long": 20.31,
+      "longType": "E",
+      "lat": 38.11,
+      "latType": "N"
+    },
+    {
+      "name": "PATRAI",
+      "long": 21.44,
+      "longType": "E",
+      "lat": 38.15,
+      "latType": "N"
+    },
+    {
+      "name": "MEGARA OIL TERMINAL",
+      "long": 23.24,
+      "longType": "E",
+      "lat": 37.58,
+      "latType": "N"
+    },
+    {
+      "name": "ELEVSIS",
+      "long": 23.33,
+      "longType": "E",
+      "lat": 38.2,
+      "latType": "N"
+    },
+    {
+      "name": "PERAMA",
+      "long": 23.34,
+      "longType": "E",
+      "lat": 37.58,
+      "latType": "N"
+    },
+    {
+      "name": "PIRAIEVS",
+      "long": 23.39,
+      "longType": "E",
+      "lat": 37.56,
+      "latType": "N"
+    },
+    {
+      "name": "DHIAVLOS STENO",
+      "long": 23.36,
+      "longType": "E",
+      "lat": 38.27,
+      "latType": "N"
+    },
+    {
+      "name": "THESSALONIKI",
+      "long": 22.56,
+      "longType": "E",
+      "lat": 40.38,
+      "latType": "N"
+    },
+    {
+      "name": "MIKONOS",
+      "long": 25.20,
+      "longType": "E",
+      "lat": 37.27,
+      "latType": "N"
+    },
+    {
+      "name": "SOUDHA",
+      "long": 24.11,
+      "longType": "E",
+      "lat": 35.29,
+      "latType": "N"
+    },
+    {
+      "name": "KALI LIMENES",
+      "long": 24.50,
+      "longType": "E",
+      "lat": 34.56,
+      "latType": "N"
+    },
+    {
+      "name": "MARINE CITY",
+      "long": 82.30,
+      "longType": "W",
+      "lat": 42.43,
+      "latType": "N"
+    },
+    {
+      "name": "ISTANBUL",
+      "long": 28.58,
+      "longType": "E",
+      "lat": 41.1,
+      "latType": "N"
+    },
+    {
+      "name": "PORT HURON",
+      "long": 82.26,
+      "longType": "W",
+      "lat": 43.0,
+      "latType": "N"
+    },
+    {
+      "name": "MEDGIDIA",
+      "long": 28.16,
+      "longType": "E",
+      "lat": 44.15,
+      "latType": "N"
+    },
+    {
+      "name": "SULINA",
+      "long": 29.40,
+      "longType": "E",
+      "lat": 45.10,
+      "latType": "N"
+    },
+    {
+      "name": "TULCEA",
+      "long": 28.49,
+      "longType": "E",
+      "lat": 45.10,
+      "latType": "N"
+    },
+    {
+      "name": "MYKOLAYIV",
+      "long": 31.59,
+      "longType": "E",
+      "lat": 46.57,
+      "latType": "N"
+    },
+    {
+      "name": "PORT HOPE",
+      "long": 82.42,
+      "longType": "W",
+      "lat": 43.57,
+      "latType": "N"
+    },
+    {
+      "name": "MARIUPOL",
+      "long": 37.34,
+      "longType": "E",
+      "lat": 47.5,
+      "latType": "N"
+    },
+    {
+      "name": "TRABZON",
+      "long": 39.46,
+      "longType": "E",
+      "lat": 41.1,
+      "latType": "N"
+    },
+    {
+      "name": "SAMSUN",
+      "long": 36.21,
+      "longType": "E",
+      "lat": 41.18,
+      "latType": "N"
+    },
+    {
+      "name": "KABA BURNU",
+      "long": 29.32,
+      "longType": "E",
+      "lat": 40.46,
+      "latType": "N"
+    },
+    {
+      "name": "DERINCE BURNU",
+      "long": 29.49,
+      "longType": "E",
+      "lat": 40.45,
+      "latType": "N"
+    },
+    {
+      "name": "GEBZE",
+      "long": 29.33,
+      "longType": "E",
+      "lat": 40.46,
+      "latType": "N"
+    },
+    {
+      "name": "CANAKKALE",
+      "long": 26.24,
+      "longType": "E",
+      "lat": 40.9,
+      "latType": "N"
+    },
+    {
+      "name": "NEMRUT LIMANI BAY",
+      "long": 26.55,
+      "longType": "E",
+      "lat": 38.46,
+      "latType": "N"
+    },
+    {
+      "name": "BODRUM",
+      "long": 27.26,
+      "longType": "E",
+      "lat": 37.2,
+      "latType": "N"
+    },
+    {
+      "name": "AKSAZ LIMANI",
+      "long": 28.23,
+      "longType": "E",
+      "lat": 36.50,
+      "latType": "N"
+    },
+    {
+      "name": "ANTALYA",
+      "long": 30.37,
+      "longType": "E",
+      "lat": 36.50,
+      "latType": "N"
+    },
+    {
+      "name": "BOTAS",
+      "long": 35.56,
+      "longType": "E",
+      "lat": 36.53,
+      "latType": "N"
+    },
+    {
+      "name": "CALCITE",
+      "long": 83.47,
+      "longType": "W",
+      "lat": 45.25,
+      "latType": "N"
+    },
+    {
+      "name": "XEROS",
+      "long": 32.50,
+      "longType": "E",
+      "lat": 35.8,
+      "latType": "N"
+    },
+    {
+      "name": "SAYDA",
+      "long": 35.21,
+      "longType": "E",
+      "lat": 33.30,
+      "latType": "N"
+    },
+    {
+      "name": "HAIFA",
+      "long": 35.0,
+      "longType": "E",
+      "lat": 32.49,
+      "latType": "N"
+    },
+    {
+      "name": "ASHQELON",
+      "long": 34.30,
+      "longType": "E",
+      "lat": 31.40,
+      "latType": "N"
+    },
+    {
+      "name": "DAMIETTA",
+      "long": 31.45,
+      "longType": "E",
+      "lat": 31.29,
+      "latType": "N"
+    },
+    {
+      "name": "SIDI KERIR (KURAYR)",
+      "long": 29.37,
+      "longType": "E",
+      "lat": 31.6,
+      "latType": "N"
+    },
+    {
+      "name": "MERSA EL HAMRA OIL TERMINAL",
+      "long": 28.52,
+      "longType": "E",
+      "lat": 30.59,
+      "latType": "N"
+    },
+    {
+      "name": "BANGHAZI",
+      "long": 20.3,
+      "longType": "E",
+      "lat": 32.7,
+      "latType": "N"
+    },
+    {
+      "name": "EZ ZUEITINA",
+      "long": 20.3,
+      "longType": "E",
+      "lat": 30.51,
+      "latType": "N"
+    },
+    {
+      "name": "AS SIDR",
+      "long": 18.22,
+      "longType": "E",
+      "lat": 30.38,
+      "latType": "N"
+    },
+    {
+      "name": "MISRATAH",
+      "long": 15.13,
+      "longType": "E",
+      "lat": 32.22,
+      "latType": "N"
+    },
+    {
+      "name": "AZ ZAWIYA",
+      "long": 12.43,
+      "longType": "E",
+      "lat": 32.48,
+      "latType": "N"
+    },
+    {
+      "name": "ASHTART OIL TERMINAL",
+      "long": 11.23,
+      "longType": "E",
+      "lat": 34.17,
+      "latType": "N"
+    },
+    {
+      "name": "SKHIRA",
+      "long": 10.6,
+      "longType": "E",
+      "lat": 34.17,
+      "latType": "N"
+    },
+    {
+      "name": "BANZART",
+      "long": 9.53,
+      "longType": "E",
+      "lat": 37.17,
+      "latType": "N"
+    },
+    {
+      "name": "ANNABA",
+      "long": 7.46,
+      "longType": "E",
+      "lat": 36.55,
+      "latType": "N"
+    },
+    {
+      "name": "ALGER",
+      "long": 3.4,
+      "longType": "E",
+      "lat": 36.46,
+      "latType": "N"
+    },
+    {
+      "name": "BENI SAF",
+      "long": 1.23,
+      "longType": "W",
+      "lat": 35.18,
+      "latType": "N"
+    },
+    {
+      "name": "GHAZAOUET",
+      "long": 1.52,
+      "longType": "W",
+      "lat": 35.6,
+      "latType": "N"
+    },
+    {
+      "name": "MOHAMMEDIA",
+      "long": 7.24,
+      "longType": "W",
+      "lat": 33.43,
+      "latType": "N"
+    },
+    {
+      "name": "CASABLANCA",
+      "long": 7.37,
+      "longType": "W",
+      "lat": 33.36,
+      "latType": "N"
+    },
+    {
+      "name": "BISSAU",
+      "long": 15.38,
+      "longType": "W",
+      "lat": 11.52,
+      "latType": "N"
+    },
+    {
+      "name": "CONAKRY",
+      "long": 13.43,
+      "longType": "W",
+      "lat": 9.31,
+      "latType": "N"
+    },
+    {
+      "name": "MONROVIA",
+      "long": 10.49,
+      "longType": "W",
+      "lat": 6.19,
+      "latType": "N"
+    },
+    {
+      "name": "BUCHANAN",
+      "long": 10.4,
+      "longType": "W",
+      "lat": 5.52,
+      "latType": "N"
+    },
+    {
+      "name": "SAN PEDRO",
+      "long": 6.37,
+      "longType": "W",
+      "lat": 4.44,
+      "latType": "N"
+    },
+    {
+      "name": "BAOBAB MARINE TERMINAL",
+      "long": 4.33,
+      "longType": "W",
+      "lat": 4.58,
+      "latType": "N"
+    },
+    {
+      "name": "PORT BOUET",
+      "long": 3.58,
+      "longType": "W",
+      "lat": 5.14,
+      "latType": "N"
+    },
+    {
+      "name": "ABIDJAN",
+      "long": 4.1,
+      "longType": "W",
+      "lat": 5.15,
+      "latType": "N"
+    },
+    {
+      "name": "ESPOIR MARINE TERMINAL",
+      "long": 4.27,
+      "longType": "W",
+      "lat": 5.3,
+      "latType": "N"
+    },
+    {
+      "name": "TAKORADI",
+      "long": 1.44,
+      "longType": "W",
+      "lat": 4.53,
+      "latType": "N"
+    },
+    {
+      "name": "LOME",
+      "long": 1.17,
+      "longType": "E",
+      "lat": 6.8,
+      "latType": "N"
+    },
+    {
+      "name": "COTONOU",
+      "long": 2.26,
+      "longType": "E",
+      "lat": 6.21,
+      "latType": "N"
+    },
+    {
+      "name": "LAGOS",
+      "long": 3.24,
+      "longType": "E",
+      "lat": 6.24,
+      "latType": "N"
+    },
+    {
+      "name": "TIN CAN ISLAND",
+      "long": 3.21,
+      "longType": "E",
+      "lat": 6.21,
+      "latType": "N"
+    },
+    {
+      "name": "ESCRAVOS OIL TERMINAL",
+      "long": 5.0,
+      "longType": "E",
+      "lat": 5.30,
+      "latType": "N"
+    },
+    {
+      "name": "SAPELE",
+      "long": 5.41,
+      "longType": "E",
+      "lat": 5.54,
+      "latType": "N"
+    },
+    {
+      "name": "FORCADOS",
+      "long": 5.26,
+      "longType": "E",
+      "lat": 5.22,
+      "latType": "N"
+    },
+    {
+      "name": "FORCADOS OIL TERMINAL",
+      "long": 5.11,
+      "longType": "E",
+      "lat": 5.10,
+      "latType": "N"
+    },
+    {
+      "name": "WARRI",
+      "long": 5.44,
+      "longType": "E",
+      "lat": 5.31,
+      "latType": "N"
+    },
+    {
+      "name": "UKPOKITI MARINE TERMINAL",
+      "long": 4.50,
+      "longType": "E",
+      "lat": 5.43,
+      "latType": "N"
+    },
+    {
+      "name": "SEA EAGLE TERMINAL",
+      "long": 5.19,
+      "longType": "E",
+      "lat": 4.48,
+      "latType": "N"
+    },
+    {
+      "name": "BRASS OIL TERMINAL",
+      "long": 6.17,
+      "longType": "E",
+      "lat": 4.4,
+      "latType": "N"
+    },
+    {
+      "name": "QUA IBOE OIL TERMINAL",
+      "long": 8.2,
+      "longType": "E",
+      "lat": 4.14,
+      "latType": "N"
+    },
+    {
+      "name": "PENNINGTON OIL TERMINAL",
+      "long": 5.37,
+      "longType": "E",
+      "lat": 4.15,
+      "latType": "N"
+    },
+    {
+      "name": "BONNY",
+      "long": 7.10,
+      "longType": "E",
+      "lat": 4.27,
+      "latType": "N"
+    },
+    {
+      "name": "BONNY OFFSHORE TERMINAL",
+      "long": 7.14,
+      "longType": "E",
+      "lat": 4.11,
+      "latType": "N"
+    },
+    {
+      "name": "OKRIKA",
+      "long": 7.5,
+      "longType": "E",
+      "lat": 4.43,
+      "latType": "N"
+    },
+    {
+      "name": "ONNE",
+      "long": 7.9,
+      "longType": "E",
+      "lat": 4.41,
+      "latType": "N"
+    },
+    {
+      "name": "PORT HARCOURT",
+      "long": 7.0,
+      "longType": "E",
+      "lat": 4.46,
+      "latType": "N"
+    },
+    {
+      "name": "ANTAN OIL TERMINAL",
+      "long": 8.20,
+      "longType": "E",
+      "lat": 4.13,
+      "latType": "N"
+    },
+    {
+      "name": "CALABAR",
+      "long": 8.19,
+      "longType": "E",
+      "lat": 4.58,
+      "latType": "N"
+    },
+    {
+      "name": "ODUDU TERMINAL",
+      "long": 7.46,
+      "longType": "E",
+      "lat": 4.0,
+      "latType": "N"
+    },
+    {
+      "name": "OKONO TERMINAL",
+      "long": 7.18,
+      "longType": "E",
+      "lat": 3.59,
+      "latType": "N"
+    },
+    {
+      "name": "OKWORI TERMINAL",
+      "long": 6.59,
+      "longType": "E",
+      "lat": 3.51,
+      "latType": "N"
+    },
+    {
+      "name": "LIMBOH TERMINAL",
+      "long": 9.9,
+      "longType": "E",
+      "lat": 3.59,
+      "latType": "N"
+    },
+    {
+      "name": "DOUALA",
+      "long": 9.41,
+      "longType": "E",
+      "lat": 4.3,
+      "latType": "N"
+    },
+    {
+      "name": "KOME KRIBI 1 MARINE TERMINAL",
+      "long": 9.48,
+      "longType": "E",
+      "lat": 2.55,
+      "latType": "N"
+    },
+    {
+      "name": "BATA",
+      "long": 9.46,
+      "longType": "E",
+      "lat": 1.52,
+      "latType": "N"
+    },
+    {
+      "name": "PUNTA EUROPA TERMINAL",
+      "long": 8.43,
+      "longType": "E",
+      "lat": 3.47,
+      "latType": "N"
+    },
+    {
+      "name": "SERPENTINA TERMINAL",
+      "long": 8.5,
+      "longType": "E",
+      "lat": 3.48,
+      "latType": "N"
+    },
+    {
+      "name": "MALABO",
+      "long": 8.47,
+      "longType": "E",
+      "lat": 3.45,
+      "latType": "N"
+    },
+    {
+      "name": "PORT OWENDO",
+      "long": 9.30,
+      "longType": "E",
+      "lat": 0.17,
+      "latType": "N"
+    },
+    {
+      "name": "PORT GENTIL",
+      "long": 8.48,
+      "longType": "E",
+      "lat": 0.42,
+      "latType": "S"
+    },
+    {
+      "name": "CAP LOPEZ",
+      "long": 8.43,
+      "longType": "E",
+      "lat": 0.38,
+      "latType": "S"
+    },
+    {
+      "name": "OGUENDJO TERMINAL",
+      "long": 8.55,
+      "longType": "E",
+      "lat": 1.28,
+      "latType": "S"
+    },
+    {
+      "name": "GAMBA OIL TERMINAL",
+      "long": 10.0,
+      "longType": "E",
+      "lat": 2.50,
+      "latType": "S"
+    },
+    {
+      "name": "LUCINA OIL TERMINAL",
+      "long": 10.45,
+      "longType": "E",
+      "lat": 3.38,
+      "latType": "S"
+    },
+    {
+      "name": "YOMBO TERMINAL",
+      "long": 11.6,
+      "longType": "E",
+      "lat": 4.27,
+      "latType": "S"
+    },
+    {
+      "name": "POINTE NOIRE",
+      "long": 11.50,
+      "longType": "E",
+      "lat": 4.47,
+      "latType": "S"
+    },
+    {
+      "name": "DJENO TERMINAL",
+      "long": 11.54,
+      "longType": "E",
+      "lat": 4.56,
+      "latType": "S"
+    },
+    {
+      "name": "TAKULA TERMINAL",
+      "long": 11.47,
+      "longType": "E",
+      "lat": 5.13,
+      "latType": "S"
+    },
+    {
+      "name": "MALONGO OIL TERMINAL",
+      "long": 12.5,
+      "longType": "E",
+      "lat": 5.26,
+      "latType": "S"
+    },
+    {
+      "name": "KUITO OIL FIELD",
+      "long": 11.30,
+      "longType": "E",
+      "lat": 5.28,
+      "latType": "S"
+    },
+    {
+      "name": "CABINDA",
+      "long": 12.12,
+      "longType": "E",
+      "lat": 5.32,
+      "latType": "S"
+    },
+    {
+      "name": "MATADI",
+      "long": 13.27,
+      "longType": "E",
+      "lat": 5.49,
+      "latType": "S"
+    },
+    {
+      "name": "SOYO ANGOLA LNG TERMINAL",
+      "long": 12.20,
+      "longType": "E",
+      "lat": 6.7,
+      "latType": "S"
+    },
+    {
+      "name": "PALANCA TERMINAL",
+      "long": 12.24,
+      "longType": "E",
+      "lat": 6.57,
+      "latType": "S"
+    },
+    {
+      "name": "GIRASSOL TERMINAL",
+      "long": 11.41,
+      "longType": "E",
+      "lat": 7.39,
+      "latType": "S"
+    },
+    {
+      "name": "ESTRELA OIL FIELD",
+      "long": 12.24,
+      "longType": "E",
+      "lat": 6.27,
+      "latType": "S"
+    },
+    {
+      "name": "LUANDA",
+      "long": 13.15,
+      "longType": "E",
+      "lat": 8.48,
+      "latType": "S"
+    },
+    {
+      "name": "LOBITO",
+      "long": 13.34,
+      "longType": "E",
+      "lat": 12.20,
+      "latType": "S"
+    },
+    {
+      "name": "NAMIBE",
+      "long": 12.9,
+      "longType": "E",
+      "lat": 15.12,
+      "latType": "S"
+    },
+    {
+      "name": "WALVIS BAY",
+      "long": 14.30,
+      "longType": "E",
+      "lat": 22.57,
+      "latType": "S"
+    },
+    {
+      "name": "GEORGETOWN",
+      "long": 14.25,
+      "longType": "W",
+      "lat": 7.56,
+      "latType": "S"
+    },
+    {
+      "name": "JAMESTOWN",
+      "long": 5.43,
+      "longType": "W",
+      "lat": 15.55,
+      "latType": "S"
+    },
+    {
+      "name": "SALDANHA BAY",
+      "long": 17.58,
+      "longType": "E",
+      "lat": 33.2,
+      "latType": "S"
+    },
+    {
+      "name": "CAPE TOWN",
+      "long": 18.25,
+      "longType": "E",
+      "lat": 33.55,
+      "latType": "S"
+    },
+    {
+      "name": "NACALA",
+      "long": 40.40,
+      "longType": "E",
+      "lat": 14.32,
+      "latType": "S"
+    },
+    {
+      "name": "MTWARA",
+      "long": 40.12,
+      "longType": "E",
+      "lat": 10.16,
+      "latType": "S"
+    },
+    {
+      "name": "DAR ES SALAAM",
+      "long": 39.18,
+      "longType": "E",
+      "lat": 6.49,
+      "latType": "S"
+    },
+    {
+      "name": "KISMAAYO",
+      "long": 42.33,
+      "longType": "E",
+      "lat": 0.22,
+      "latType": "S"
+    },
+    {
+      "name": "MUQDISHO",
+      "long": 45.21,
+      "longType": "E",
+      "lat": 2.2,
+      "latType": "N"
+    },
+    {
+      "name": "MAHAJANGA",
+      "long": 46.18,
+      "longType": "E",
+      "lat": 15.43,
+      "latType": "S"
+    },
+    {
+      "name": "FARADOFAY",
+      "long": 47.0,
+      "longType": "E",
+      "lat": 25.2,
+      "latType": "S"
+    },
+    {
+      "name": "GARY",
+      "long": 87.20,
+      "longType": "W",
+      "lat": 41.37,
+      "latType": "N"
+    },
+    {
+      "name": "ANTISRANANA",
+      "long": 49.17,
+      "longType": "E",
+      "lat": 12.16,
+      "latType": "S"
+    },
+    {
+      "name": "SAINT-DENIS",
+      "long": 55.27,
+      "longType": "E",
+      "lat": 20.52,
+      "latType": "S"
+    },
+    {
+      "name": "PORT EST",
+      "long": 55.19,
+      "longType": "E",
+      "lat": 20.56,
+      "latType": "S"
+    },
+    {
+      "name": "PORT OUEST",
+      "long": 55.17,
+      "longType": "E",
+      "lat": 20.56,
+      "latType": "S"
+    },
+    {
+      "name": "BUFFINGTON",
+      "long": 87.25,
+      "longType": "W",
+      "lat": 41.38,
+      "latType": "N"
+    },
+    {
+      "name": "INDIANA HARBOR",
+      "long": 87.26,
+      "longType": "W",
+      "lat": 41.40,
+      "latType": "N"
+    },
+    {
+      "name": "DORALEH",
+      "long": 43.5,
+      "longType": "E",
+      "lat": 11.36,
+      "latType": "N"
+    },
+    {
+      "name": "CALUMET HARBOR",
+      "long": 87.31,
+      "longType": "W",
+      "lat": 41.44,
+      "latType": "N"
+    },
+    {
+      "name": "MITSIWA HARBOR",
+      "long": 39.28,
+      "longType": "E",
+      "lat": 15.37,
+      "latType": "N"
+    },
+    {
+      "name": "PORT SUDAN",
+      "long": 37.14,
+      "longType": "E",
+      "lat": 19.36,
+      "latType": "N"
+    },
+    {
+      "name": "BUR SAFAGA",
+      "long": 33.57,
+      "longType": "E",
+      "lat": 26.44,
+      "latType": "N"
+    },
+    {
+      "name": "CHICAGO",
+      "long": 87.36,
+      "longType": "W",
+      "lat": 41.53,
+      "latType": "N"
+    },
+    {
+      "name": "EL-ADABIYA",
+      "long": 32.28,
+      "longType": "E",
+      "lat": 29.52,
+      "latType": "N"
+    },
+    {
+      "name": "EL ISMAILIYA",
+      "long": 32.17,
+      "longType": "E",
+      "lat": 30.35,
+      "latType": "N"
+    },
+    {
+      "name": "AIN SUKHNA TERMINAL",
+      "long": 32.22,
+      "longType": "E",
+      "lat": 29.35,
+      "latType": "N"
+    },
+    {
+      "name": "RAS ABU ZANIMAH",
+      "long": 33.7,
+      "longType": "E",
+      "lat": 29.2,
+      "latType": "N"
+    },
+    {
+      "name": "ELAT",
+      "long": 34.57,
+      "longType": "E",
+      "lat": 29.33,
+      "latType": "N"
+    },
+    {
+      "name": "AL MUKALLA",
+      "long": 49.7,
+      "longType": "E",
+      "lat": 14.31,
+      "latType": "N"
+    },
+    {
+      "name": "MINA RAYSUT",
+      "long": 54.1,
+      "longType": "E",
+      "lat": 16.56,
+      "latType": "N"
+    },
+    {
+      "name": "FUJAYRAH HARBOR",
+      "long": 56.20,
+      "longType": "E",
+      "lat": 25.10,
+      "latType": "N"
+    },
+    {
+      "name": "KHAWR FAKKAN",
+      "long": 56.23,
+      "longType": "E",
+      "lat": 25.21,
+      "latType": "N"
+    },
+    {
+      "name": "FATEH OIL TERMINAL",
+      "long": 54.25,
+      "longType": "E",
+      "lat": 25.35,
+      "latType": "N"
+    },
+    {
+      "name": "MUBARRAZ OIL TERMINAL",
+      "long": 53.31,
+      "longType": "E",
+      "lat": 24.26,
+      "latType": "N"
+    },
+    {
+      "name": "ASH SHARIQAH",
+      "long": 55.22,
+      "longType": "E",
+      "lat": 25.25,
+      "latType": "N"
+    },
+    {
+      "name": "SHARJAH OFFSHORE TERMINAL",
+      "long": 55.24,
+      "longType": "E",
+      "lat": 25.35,
+      "latType": "N"
+    },
+    {
+      "name": "AL HAMRIYAH LPG TERMINAL",
+      "long": 55.29,
+      "longType": "E",
+      "lat": 25.28,
+      "latType": "N"
+    },
+    {
+      "name": "DUBAYY",
+      "long": 55.18,
+      "longType": "E",
+      "lat": 25.16,
+      "latType": "N"
+    },
+    {
+      "name": "MINA JABAL ALI",
+      "long": 55.3,
+      "longType": "E",
+      "lat": 25.1,
+      "latType": "N"
+    },
+    {
+      "name": "ABU ZABY",
+      "long": 54.20,
+      "longType": "E",
+      "lat": 24.30,
+      "latType": "N"
+    },
+    {
+      "name": "JABAL AZ ZANNAH/RUWAYS",
+      "long": 52.42,
+      "longType": "E",
+      "lat": 24.12,
+      "latType": "N"
+    },
+    {
+      "name": "JAZIRAT HALUL",
+      "long": 52.25,
+      "longType": "E",
+      "lat": 25.41,
+      "latType": "N"
+    },
+    {
+      "name": "AL MANAMAH",
+      "long": 50.35,
+      "longType": "E",
+      "lat": 26.14,
+      "latType": "N"
+    },
+    {
+      "name": "KHALIFA BIN SALMAN",
+      "long": 50.45,
+      "longType": "E",
+      "lat": 26.15,
+      "latType": "N"
+    },
+    {
+      "name": "DAMMAM",
+      "long": 50.12,
+      "longType": "E",
+      "lat": 26.30,
+      "latType": "N"
+    },
+    {
+      "name": "RAS  TANNURAH",
+      "long": 50.10,
+      "longType": "E",
+      "lat": 26.38,
+      "latType": "N"
+    },
+    {
+      "name": "JU AYMAH OIL TERMINAL",
+      "long": 50.2,
+      "longType": "E",
+      "lat": 26.56,
+      "latType": "N"
+    },
+    {
+      "name": "RAS AL MISHAB",
+      "long": 48.38,
+      "longType": "E",
+      "lat": 28.7,
+      "latType": "N"
+    },
+    {
+      "name": "RAS AL MISHAB",
+      "long": 48.38,
+      "longType": "E",
+      "lat": 28.7,
+      "latType": "N"
+    },
+    {
+      "name": "RAS AL KHAFJI",
+      "long": 48.35,
+      "longType": "E",
+      "lat": 28.26,
+      "latType": "N"
+    },
+    {
+      "name": "AL-BASRA OIL TERMINAL",
+      "long": 48.49,
+      "longType": "E",
+      "lat": 29.41,
+      "latType": "N"
+    },
+    {
+      "name": "BANDAR KHOMEYNI",
+      "long": 49.5,
+      "longType": "E",
+      "lat": 30.26,
+      "latType": "N"
+    },
+    {
+      "name": "SIRUS OIL TERMINAL",
+      "long": 49.29,
+      "longType": "E",
+      "lat": 29.1,
+      "latType": "N"
+    },
+    {
+      "name": "BANDAR TAHERI OFFSHORE TERMINAL",
+      "long": 52.21,
+      "longType": "E",
+      "lat": 27.39,
+      "latType": "N"
+    },
+    {
+      "name": "KARACHI",
+      "long": 66.59,
+      "longType": "E",
+      "lat": 24.47,
+      "latType": "N"
+    },
+    {
+      "name": "SIKKA",
+      "long": 69.50,
+      "longType": "E",
+      "lat": 22.26,
+      "latType": "N"
+    },
+    {
+      "name": "VADINAR TERMINAL",
+      "long": 69.42,
+      "longType": "E",
+      "lat": 22.31,
+      "latType": "N"
+    },
+    {
+      "name": "MUNDRA",
+      "long": 69.42,
+      "longType": "E",
+      "lat": 22.44,
+      "latType": "N"
+    },
+    {
+      "name": "MANDVI",
+      "long": 69.21,
+      "longType": "E",
+      "lat": 22.50,
+      "latType": "N"
+    },
+    {
+      "name": "KANDLA",
+      "long": 70.13,
+      "longType": "E",
+      "lat": 23.2,
+      "latType": "N"
+    },
+    {
+      "name": "NAVLAKHI",
+      "long": 70.27,
+      "longType": "E",
+      "lat": 22.57,
+      "latType": "N"
+    },
+    {
+      "name": "BEDI",
+      "long": 70.2,
+      "longType": "E",
+      "lat": 22.31,
+      "latType": "N"
+    },
+    {
+      "name": "OKHA",
+      "long": 69.5,
+      "longType": "E",
+      "lat": 22.28,
+      "latType": "N"
+    },
+    {
+      "name": "DAHEJ",
+      "long": 72.32,
+      "longType": "E",
+      "lat": 21.42,
+      "latType": "N"
+    },
+    {
+      "name": "PORBANDAR",
+      "long": 69.36,
+      "longType": "E",
+      "lat": 21.38,
+      "latType": "N"
+    },
+    {
+      "name": "VERAVAL",
+      "long": 70.22,
+      "longType": "E",
+      "lat": 20.54,
+      "latType": "N"
+    },
+    {
+      "name": "PIPAVAV BANDAR",
+      "long": 71.31,
+      "longType": "E",
+      "lat": 20.55,
+      "latType": "N"
+    },
+    {
+      "name": "HAZIRA",
+      "long": 72.38,
+      "longType": "E",
+      "lat": 21.5,
+      "latType": "N"
+    },
+    {
+      "name": "MUMBAI (BOMBAY)",
+      "long": 72.52,
+      "longType": "E",
+      "lat": 18.58,
+      "latType": "N"
+    },
+    {
+      "name": "JAWAHARLAL NEHRU PORT (NHAVA SHIVA)",
+      "long": 72.57,
+      "longType": "E",
+      "lat": 18.57,
+      "latType": "N"
+    },
+    {
+      "name": "MANITOWOC",
+      "long": 87.39,
+      "longType": "W",
+      "lat": 44.6,
+      "latType": "N"
+    },
+    {
+      "name": "RATNAGIRI",
+      "long": 73.17,
+      "longType": "E",
+      "lat": 16.59,
+      "latType": "N"
+    },
+    {
+      "name": "MARMAGAO",
+      "long": 73.48,
+      "longType": "E",
+      "lat": 15.26,
+      "latType": "N"
+    },
+    {
+      "name": "KARWAR",
+      "long": 74.7,
+      "longType": "E",
+      "lat": 14.49,
+      "latType": "N"
+    },
+    {
+      "name": "NEW MANGALORE",
+      "long": 74.49,
+      "longType": "E",
+      "lat": 12.55,
+      "latType": "N"
+    },
+    {
+      "name": "KOCHI (COCHIN)",
+      "long": 76.14,
+      "longType": "E",
+      "lat": 9.58,
+      "latType": "N"
+    },
+    {
+      "name": "TRINCOMALEE HARBOR",
+      "long": 81.13,
+      "longType": "E",
+      "lat": 8.33,
+      "latType": "N"
+    },
+    {
+      "name": "STURGEON BAY",
+      "long": 87.23,
+      "longType": "W",
+      "lat": 44.50,
+      "latType": "N"
+    },
+    {
+      "name": "NAGAPPATTINAM",
+      "long": 79.51,
+      "longType": "E",
+      "lat": 10.46,
+      "latType": "N"
+    },
+    {
+      "name": "KARAIKAL PORT",
+      "long": 79.52,
+      "longType": "E",
+      "lat": 10.50,
+      "latType": "N"
+    },
+    {
+      "name": "CUDDALORE",
+      "long": 79.46,
+      "longType": "E",
+      "lat": 11.43,
+      "latType": "N"
+    },
+    {
+      "name": "PONDICHERRY",
+      "long": 79.50,
+      "longType": "E",
+      "lat": 11.56,
+      "latType": "N"
+    },
+    {
+      "name": "KAKINADA BAY",
+      "long": 82.19,
+      "longType": "E",
+      "lat": 17.0,
+      "latType": "N"
+    },
+    {
+      "name": "HALDIA PORT",
+      "long": 88.5,
+      "longType": "E",
+      "lat": 22.1,
+      "latType": "N"
+    },
+    {
+      "name": "PULAU PINANG",
+      "long": 100.21,
+      "longType": "E",
+      "lat": 5.25,
+      "latType": "N"
+    },
+    {
+      "name": "MALONG MARINE TERMINAL",
+      "long": 104.49,
+      "longType": "E",
+      "lat": 4.38,
+      "latType": "N"
+    },
+    {
+      "name": "LUMUT",
+      "long": 100.38,
+      "longType": "E",
+      "lat": 4.14,
+      "latType": "N"
+    },
+    {
+      "name": "PORT KLANG",
+      "long": 101.24,
+      "longType": "E",
+      "lat": 3.0,
+      "latType": "N"
+    },
+    {
+      "name": "PORT DICKSON",
+      "long": 101.48,
+      "longType": "E",
+      "lat": 2.31,
+      "latType": "N"
+    },
+    {
+      "name": "JOHOR",
+      "long": 103.54,
+      "longType": "E",
+      "lat": 1.26,
+      "latType": "N"
+    },
+    {
+      "name": "KEPPEL - (EAST SINGAPORE)",
+      "long": 103.51,
+      "longType": "E",
+      "lat": 1.17,
+      "latType": "N"
+    },
+    {
+      "name": "PULAU BUKOM",
+      "long": 103.46,
+      "longType": "E",
+      "lat": 1.14,
+      "latType": "N"
+    },
+    {
+      "name": "PULAU SEBAROK",
+      "long": 103.48,
+      "longType": "E",
+      "lat": 1.12,
+      "latType": "N"
+    },
+    {
+      "name": "JURONG ISLAND",
+      "long": 103.44,
+      "longType": "E",
+      "lat": 1.17,
+      "latType": "N"
+    },
+    {
+      "name": "TANJUNGUBAN",
+      "long": 104.13,
+      "longType": "E",
+      "lat": 1.4,
+      "latType": "N"
+    },
+    {
+      "name": "KIJANG",
+      "long": 104.36,
+      "longType": "E",
+      "lat": 0.51,
+      "latType": "N"
+    },
+    {
+      "name": "PULAU SAMBU",
+      "long": 103.54,
+      "longType": "E",
+      "lat": 1.10,
+      "latType": "N"
+    },
+    {
+      "name": "TELUK BAYUR",
+      "long": 100.22,
+      "longType": "E",
+      "lat": 1.0,
+      "latType": "S"
+    },
+    {
+      "name": "ESCANABA",
+      "long": 87.3,
+      "longType": "W",
+      "lat": 45.46,
+      "latType": "N"
+    },
+    {
+      "name": "TANJUNG BALAI KARIMUN",
+      "long": 103.26,
+      "longType": "E",
+      "lat": 0.59,
+      "latType": "N"
+    },
+    {
+      "name": "KUALA TANJUNG",
+      "long": 99.28,
+      "longType": "E",
+      "lat": 3.21,
+      "latType": "N"
+    },
+    {
+      "name": "SABANG",
+      "long": 95.19,
+      "longType": "E",
+      "lat": 5.53,
+      "latType": "N"
+    },
+    {
+      "name": "BLANGLANCANG",
+      "long": 97.7,
+      "longType": "E",
+      "lat": 5.15,
+      "latType": "N"
+    },
+    {
+      "name": "PANGKALANSUSU",
+      "long": 98.13,
+      "longType": "E",
+      "lat": 4.7,
+      "latType": "N"
+    },
+    {
+      "name": "BELAWAN",
+      "long": 98.41,
+      "longType": "E",
+      "lat": 3.47,
+      "latType": "N"
+    },
+    {
+      "name": "DUMAI",
+      "long": 101.27,
+      "longType": "E",
+      "lat": 1.41,
+      "latType": "N"
+    },
+    {
+      "name": "SUNGAIPAKNING",
+      "long": 102.10,
+      "longType": "E",
+      "lat": 1.21,
+      "latType": "N"
+    },
+    {
+      "name": "PORT INLAND",
+      "long": 85.52,
+      "longType": "W",
+      "lat": 45.58,
+      "latType": "N"
+    },
+    {
+      "name": "CILACAP",
+      "long": 109.0,
+      "longType": "E",
+      "lat": 7.44,
+      "latType": "S"
+    },
+    {
+      "name": "KUPANG",
+      "long": 123.35,
+      "longType": "E",
+      "lat": 10.10,
+      "latType": "S"
+    },
+    {
+      "name": "BELIDA MARINE TERMINAL",
+      "long": 105.8,
+      "longType": "E",
+      "lat": 4.8,
+      "latType": "N"
+    },
+    {
+      "name": "BINTULU PORT",
+      "long": 113.4,
+      "longType": "E",
+      "lat": 3.16,
+      "latType": "N"
+    },
+    {
+      "name": "TANJUNG PELEPAS",
+      "long": 103.33,
+      "longType": "E",
+      "lat": 1.21,
+      "latType": "N"
+    },
+    {
+      "name": "LUTONG",
+      "long": 114.0,
+      "longType": "E",
+      "lat": 4.28,
+      "latType": "N"
+    },
+    {
+      "name": "SERIA OIL LOADING TERMINAL",
+      "long": 114.19,
+      "longType": "E",
+      "lat": 4.37,
+      "latType": "N"
+    },
+    {
+      "name": "VICTORIA",
+      "long": 115.14,
+      "longType": "E",
+      "lat": 5.17,
+      "latType": "N"
+    },
+    {
+      "name": "KOTA KINABALU",
+      "long": 116.4,
+      "longType": "E",
+      "lat": 5.59,
+      "latType": "N"
+    },
+    {
+      "name": "KUDAT",
+      "long": 116.51,
+      "longType": "E",
+      "lat": 6.53,
+      "latType": "N"
+    },
+    {
+      "name": "BONTANG LNG TERMINAL",
+      "long": 117.29,
+      "longType": "E",
+      "lat": 0.6,
+      "latType": "N"
+    },
+    {
+      "name": "LAWI LAWI OIL TERMINAL",
+      "long": 116.46,
+      "longType": "E",
+      "lat": 1.27,
+      "latType": "S"
+    },
+    {
+      "name": "KUMAI",
+      "long": 111.43,
+      "longType": "E",
+      "lat": 2.45,
+      "latType": "S"
+    },
+    {
+      "name": "THUNDER BAY",
+      "long": 89.14,
+      "longType": "W",
+      "lat": 48.24,
+      "latType": "N"
+    },
+    {
+      "name": "KOLONODALE",
+      "long": 121.20,
+      "longType": "E",
+      "lat": 1.59,
+      "latType": "S"
+    },
+    {
+      "name": "MANGKASA OIL TERMINAL",
+      "long": 121.4,
+      "longType": "E",
+      "lat": 2.44,
+      "latType": "S"
+    },
+    {
+      "name": "SERUI",
+      "long": 136.15,
+      "longType": "E",
+      "lat": 1.54,
+      "latType": "S"
+    },
+    {
+      "name": "AMAMAPARE",
+      "long": 136.58,
+      "longType": "E",
+      "lat": 4.49,
+      "latType": "S"
+    },
+    {
+      "name": "KUMUL",
+      "long": 144.34,
+      "longType": "E",
+      "lat": 8.6,
+      "latType": "S"
+    },
+    {
+      "name": "TOWNSVILLE",
+      "long": 146.49,
+      "longType": "E",
+      "lat": 19.16,
+      "latType": "S"
+    },
+    {
+      "name": "PORT ALMA",
+      "long": 150.51,
+      "longType": "E",
+      "lat": 23.35,
+      "latType": "S"
+    },
+    {
+      "name": "BRISBANE",
+      "long": 153.2,
+      "longType": "E",
+      "lat": 27.28,
+      "latType": "S"
+    },
+    {
+      "name": "NEWCASTLE",
+      "long": 151.47,
+      "longType": "E",
+      "lat": 32.55,
+      "latType": "S"
+    },
+    {
+      "name": "SYDNEY",
+      "long": 151.12,
+      "longType": "E",
+      "lat": 33.52,
+      "latType": "S"
+    },
+    {
+      "name": "BOTANY BAY",
+      "long": 151.14,
+      "longType": "E",
+      "lat": 34.0,
+      "latType": "S"
+    },
+    {
+      "name": "PORT KEMBLA",
+      "long": 150.55,
+      "longType": "E",
+      "lat": 34.29,
+      "latType": "S"
+    },
+    {
+      "name": "WESTERN PORT",
+      "long": 145.14,
+      "longType": "E",
+      "lat": 38.21,
+      "latType": "S"
+    },
+    {
+      "name": "GEELONG",
+      "long": 144.22,
+      "longType": "E",
+      "lat": 38.9,
+      "latType": "S"
+    },
+    {
+      "name": "SUPERIOR",
+      "long": 92.4,
+      "longType": "W",
+      "lat": 46.44,
+      "latType": "N"
+    },
+    {
+      "name": "POINT MURAT",
+      "long": 114.11,
+      "longType": "E",
+      "lat": 21.49,
+      "latType": "S"
+    },
+    {
+      "name": "DULUTH",
+      "long": 92.6,
+      "longType": "W",
+      "lat": 46.46,
+      "latType": "N"
+    },
+    {
+      "name": "PORT HEDLAND",
+      "long": 118.35,
+      "longType": "E",
+      "lat": 20.19,
+      "latType": "S"
+    },
+    {
+      "name": "GOVE",
+      "long": 136.42,
+      "longType": "E",
+      "lat": 12.12,
+      "latType": "S"
+    },
+    {
+      "name": "TWO HARBORS",
+      "long": 91.39,
+      "longType": "W",
+      "lat": 47.1,
+      "latType": "N"
+    },
+    {
+      "name": "HOBART",
+      "long": 147.20,
+      "longType": "E",
+      "lat": 42.53,
+      "latType": "S"
+    },
+    {
+      "name": "PORT HUON",
+      "long": 146.59,
+      "longType": "E",
+      "lat": 43.10,
+      "latType": "S"
+    },
+    {
+      "name": "STANLEY",
+      "long": 145.17,
+      "longType": "E",
+      "lat": 40.46,
+      "latType": "S"
+    },
+    {
+      "name": "DEVONPORT",
+      "long": 146.22,
+      "longType": "E",
+      "lat": 41.11,
+      "latType": "S"
+    },
+    {
+      "name": "PORT DALRYMPLE",
+      "long": 146.50,
+      "longType": "E",
+      "lat": 41.8,
+      "latType": "S"
+    },
+    {
+      "name": "LAUNCESTON",
+      "long": 147.7,
+      "longType": "E",
+      "lat": 41.27,
+      "latType": "S"
+    },
+    {
+      "name": "AUCKLAND",
+      "long": 174.46,
+      "longType": "E",
+      "lat": 36.51,
+      "latType": "S"
+    },
+    {
+      "name": "GASPE",
+      "long": 64.29,
+      "longType": "W",
+      "lat": 48.50,
+      "latType": "N"
+    },
+    {
+      "name": "NAPIER",
+      "long": 176.55,
+      "longType": "E",
+      "lat": 39.29,
+      "latType": "S"
+    },
+    {
+      "name": "WELLINGTON",
+      "long": 174.47,
+      "longType": "E",
+      "lat": 41.17,
+      "latType": "S"
+    },
+    {
+      "name": "NEW PLYMOUTH",
+      "long": 174.2,
+      "longType": "E",
+      "lat": 39.4,
+      "latType": "S"
+    },
+    {
+      "name": "MANUKAU HARBOR",
+      "long": 174.47,
+      "longType": "E",
+      "lat": 36.56,
+      "latType": "S"
+    },
+    {
+      "name": "NELSON",
+      "long": 173.16,
+      "longType": "E",
+      "lat": 41.16,
+      "latType": "S"
+    },
+    {
+      "name": "PICTON",
+      "long": 174.1,
+      "longType": "E",
+      "lat": 41.17,
+      "latType": "S"
+    },
+    {
+      "name": "SUVA HARBOR",
+      "long": 178.25,
+      "longType": "E",
+      "lat": 18.8,
+      "latType": "S"
+    },
+    {
+      "name": "DALHOUSIE",
+      "long": 66.22,
+      "longType": "W",
+      "lat": 48.4,
+      "latType": "N"
+    },
+    {
+      "name": "APIA",
+      "long": 171.46,
+      "longType": "W",
+      "lat": 13.49,
+      "latType": "S"
+    },
+    {
+      "name": "HILO",
+      "long": 155.4,
+      "longType": "W",
+      "lat": 19.44,
+      "latType": "N"
+    },
+    {
+      "name": "JOHNSTON ATOLL",
+      "long": 169.31,
+      "longType": "W",
+      "lat": 16.45,
+      "latType": "N"
+    },
+    {
+      "name": "WAKE ISLAND",
+      "long": 166.37,
+      "longType": "E",
+      "lat": 19.17,
+      "latType": "N"
+    },
+    {
+      "name": "KIETA",
+      "long": 155.38,
+      "longType": "E",
+      "lat": 6.13,
+      "latType": "S"
+    },
+    {
+      "name": "PORT NORO",
+      "long": 157.11,
+      "longType": "E",
+      "lat": 8.13,
+      "latType": "S"
+    },
+    {
+      "name": "HONIARA",
+      "long": 159.57,
+      "longType": "E",
+      "lat": 9.25,
+      "latType": "S"
+    },
+    {
+      "name": "LUGANVILLE",
+      "long": 167.10,
+      "longType": "E",
+      "lat": 15.31,
+      "latType": "S"
+    },
+    {
+      "name": "BAIE UGUE",
+      "long": 165.33,
+      "longType": "E",
+      "lat": 21.9,
+      "latType": "S"
+    },
+    {
+      "name": "GEORGETOWN",
+      "long": 62.32,
+      "longType": "W",
+      "lat": 46.11,
+      "latType": "N"
+    },
+    {
+      "name": "KEMAMAN HARBOR",
+      "long": 103.28,
+      "longType": "E",
+      "lat": 4.15,
+      "latType": "N"
+    },
+    {
+      "name": "KIRTEH OIL TERMINAL",
+      "long": 103.28,
+      "longType": "E",
+      "lat": 4.34,
+      "latType": "N"
+    },
+    {
+      "name": "TAPIS MARINE TERMINAL A",
+      "long": 105.1,
+      "longType": "E",
+      "lat": 5.31,
+      "latType": "N"
+    },
+    {
+      "name": "BONGKOT TERMINAL",
+      "long": 102.20,
+      "longType": "E",
+      "lat": 8.3,
+      "latType": "N"
+    },
+    {
+      "name": "BENCHAMAS TERMINAL",
+      "long": 101.15,
+      "longType": "E",
+      "lat": 10.31,
+      "latType": "N"
+    },
+    {
+      "name": "MAP TA PHUT",
+      "long": 101.10,
+      "longType": "E",
+      "lat": 12.40,
+      "latType": "N"
+    },
+    {
+      "name": "SONGKHLA HARBOR",
+      "long": 100.35,
+      "longType": "E",
+      "lat": 7.13,
+      "latType": "N"
+    },
+    {
+      "name": "ERAWAN TERMINAL",
+      "long": 101.21,
+      "longType": "E",
+      "lat": 9.6,
+      "latType": "N"
+    },
+    {
+      "name": "SI RACHA",
+      "long": 100.55,
+      "longType": "E",
+      "lat": 13.10,
+      "latType": "N"
+    },
+    {
+      "name": "SIAM SEAPORT",
+      "long": 100.53,
+      "longType": "E",
+      "lat": 13.8,
+      "latType": "N"
+    },
+    {
+      "name": "LAEM CHABANG",
+      "long": 100.53,
+      "longType": "E",
+      "lat": 13.5,
+      "latType": "N"
+    },
+    {
+      "name": "CHARLOTTETOWN",
+      "long": 63.8,
+      "longType": "W",
+      "lat": 46.14,
+      "latType": "N"
+    },
+    {
+      "name": "DUONG DONG",
+      "long": 103.58,
+      "longType": "E",
+      "lat": 10.13,
+      "latType": "N"
+    },
+    {
+      "name": "THANH HO CHI MINH",
+      "long": 106.43,
+      "longType": "E",
+      "lat": 10.46,
+      "latType": "N"
+    },
+    {
+      "name": "VINH CAM RANH",
+      "long": 109.10,
+      "longType": "E",
+      "lat": 11.53,
+      "latType": "N"
+    },
+    {
+      "name": "SUMMERSIDE",
+      "long": 63.47,
+      "longType": "W",
+      "lat": 46.24,
+      "latType": "N"
+    },
+    {
+      "name": "QINZHOU",
+      "long": 108.35,
+      "longType": "E",
+      "lat": 21.44,
+      "latType": "N"
+    },
+    {
+      "name": "HUANGPUXINGANG",
+      "long": 113.30,
+      "longType": "E",
+      "lat": 23.3,
+      "latType": "N"
+    },
+    {
+      "name": "KAO-HSIUNG",
+      "long": 120.15,
+      "longType": "E",
+      "lat": 22.37,
+      "latType": "N"
+    },
+    {
+      "name": "HONDAGUA",
+      "long": 122.14,
+      "longType": "E",
+      "lat": 13.57,
+      "latType": "N"
+    },
+    {
+      "name": "TABACO",
+      "long": 123.44,
+      "longType": "E",
+      "lat": 13.22,
+      "latType": "N"
+    },
+    {
+      "name": "BATANGAS CITY",
+      "long": 121.3,
+      "longType": "E",
+      "lat": 13.45,
+      "latType": "N"
+    },
+    {
+      "name": "SUBIC BAY",
+      "long": 120.16,
+      "longType": "E",
+      "lat": 14.48,
+      "latType": "N"
+    },
+    {
+      "name": "PORT HAWKESBURY",
+      "long": 61.22,
+      "longType": "W",
+      "lat": 45.37,
+      "latType": "N"
+    },
+    {
+      "name": "PORT HASTINGS",
+      "long": 61.24,
+      "longType": "W",
+      "lat": 45.39,
+      "latType": "N"
+    },
+    {
+      "name": "TOLEDO",
+      "long": 123.38,
+      "longType": "E",
+      "lat": 10.22,
+      "latType": "N"
+    },
+    {
+      "name": "ILOILO",
+      "long": 122.35,
+      "longType": "E",
+      "lat": 10.42,
+      "latType": "N"
+    },
+    {
+      "name": "MATI",
+      "long": 126.13,
+      "longType": "E",
+      "lat": 6.57,
+      "latType": "N"
+    },
+    {
+      "name": "DAVAO",
+      "long": 125.37,
+      "longType": "E",
+      "lat": 7.4,
+      "latType": "N"
+    },
+    {
+      "name": "PAGADIAN",
+      "long": 123.26,
+      "longType": "E",
+      "lat": 7.50,
+      "latType": "N"
+    },
+    {
+      "name": "JIMENEZ",
+      "long": 123.52,
+      "longType": "E",
+      "lat": 8.20,
+      "latType": "N"
+    },
+    {
+      "name": "NORTH SYDNEY",
+      "long": 60.15,
+      "longType": "W",
+      "lat": 46.13,
+      "latType": "N"
+    },
+    {
+      "name": "NINGBO",
+      "long": 121.33,
+      "longType": "E",
+      "lat": 29.53,
+      "latType": "N"
+    },
+    {
+      "name": "ZHOUSHAN",
+      "long": 122.6,
+      "longType": "E",
+      "lat": 30.0,
+      "latType": "N"
+    },
+    {
+      "name": "GAOGANG",
+      "long": 119.51,
+      "longType": "E",
+      "lat": 32.17,
+      "latType": "N"
+    },
+    {
+      "name": "SYDNEY",
+      "long": 60.12,
+      "longType": "W",
+      "lat": 46.9,
+      "latType": "N"
+    },
+    {
+      "name": "NANJING",
+      "long": 118.45,
+      "longType": "E",
+      "lat": 32.5,
+      "latType": "N"
+    },
+    {
+      "name": "TIANJIN XIN GANG",
+      "long": 117.50,
+      "longType": "E",
+      "lat": 38.58,
+      "latType": "N"
+    },
+    {
+      "name": "SUIZHANG GANG",
+      "long": 121.3,
+      "longType": "E",
+      "lat": 40.4,
+      "latType": "N"
+    },
+    {
+      "name": "YINGKOU",
+      "long": 122.14,
+      "longType": "E",
+      "lat": 40.41,
+      "latType": "N"
+    },
+    {
+      "name": "DALIAN",
+      "long": 121.40,
+      "longType": "E",
+      "lat": 38.55,
+      "latType": "N"
+    },
+    {
+      "name": "NAMPO",
+      "long": 125.24,
+      "longType": "E",
+      "lat": 38.43,
+      "latType": "N"
+    },
+    {
+      "name": "P ONGT AEK HANG",
+      "long": 126.44,
+      "longType": "E",
+      "lat": 37.0,
+      "latType": "N"
+    },
+    {
+      "name": "KUNSAN",
+      "long": 126.37,
+      "longType": "E",
+      "lat": 35.59,
+      "latType": "N"
+    },
+    {
+      "name": "YOSU",
+      "long": 127.45,
+      "longType": "E",
+      "lat": 34.44,
+      "latType": "N"
+    },
+    {
+      "name": "MASAN",
+      "long": 128.34,
+      "longType": "E",
+      "lat": 35.11,
+      "latType": "N"
+    },
+    {
+      "name": "PUSAN",
+      "long": 129.2,
+      "longType": "E",
+      "lat": 35.6,
+      "latType": "N"
+    },
+    {
+      "name": "ULSAN",
+      "long": 129.24,
+      "longType": "E",
+      "lat": 35.27,
+      "latType": "N"
+    },
+    {
+      "name": "POHANG",
+      "long": 129.23,
+      "longType": "E",
+      "lat": 36.3,
+      "latType": "N"
+    },
+    {
+      "name": "WONSAN",
+      "long": 127.27,
+      "longType": "E",
+      "lat": 39.10,
+      "latType": "N"
+    },
+    {
+      "name": "SENBONG",
+      "long": 130.24,
+      "longType": "E",
+      "lat": 42.20,
+      "latType": "N"
+    },
+    {
+      "name": "VLADIVOSTOK",
+      "long": 131.54,
+      "longType": "E",
+      "lat": 43.7,
+      "latType": "N"
+    },
+    {
+      "name": "KUSHIRO KO",
+      "long": 144.22,
+      "longType": "E",
+      "lat": 42.59,
+      "latType": "N"
+    },
+    {
+      "name": "HAKODATE",
+      "long": 140.43,
+      "longType": "E",
+      "lat": 41.47,
+      "latType": "N"
+    },
+    {
+      "name": "OTARU",
+      "long": 141.1,
+      "longType": "E",
+      "lat": 43.12,
+      "latType": "N"
+    },
+    {
+      "name": "RUMOI",
+      "long": 141.38,
+      "longType": "E",
+      "lat": 43.57,
+      "latType": "N"
+    },
+    {
+      "name": "AOMORI",
+      "long": 140.45,
+      "longType": "E",
+      "lat": 40.50,
+      "latType": "N"
+    },
+    {
+      "name": "SENDAI-SHIOGAMA",
+      "long": 141.2,
+      "longType": "E",
+      "lat": 38.19,
+      "latType": "N"
+    },
+    {
+      "name": "ONAHAMA KO",
+      "long": 140.54,
+      "longType": "E",
+      "lat": 36.56,
+      "latType": "N"
+    },
+    {
+      "name": "HITACHI",
+      "long": 140.38,
+      "longType": "E",
+      "lat": 36.30,
+      "latType": "N"
+    },
+    {
+      "name": "CHOSHI",
+      "long": 140.51,
+      "longType": "E",
+      "lat": 35.44,
+      "latType": "N"
+    },
+    {
+      "name": "KATSUNAN KO",
+      "long": 139.59,
+      "longType": "E",
+      "lat": 35.40,
+      "latType": "N"
+    },
+    {
+      "name": "TOKYO KO",
+      "long": 139.45,
+      "longType": "E",
+      "lat": 35.40,
+      "latType": "N"
+    },
+    {
+      "name": "TAGONOURA",
+      "long": 138.42,
+      "longType": "E",
+      "lat": 35.8,
+      "latType": "N"
+    },
+    {
+      "name": "KINUURA KO",
+      "long": 136.57,
+      "longType": "E",
+      "lat": 34.51,
+      "latType": "N"
+    },
+    {
+      "name": "GAMAGORI KO",
+      "long": 137.13,
+      "longType": "E",
+      "lat": 34.49,
+      "latType": "N"
+    },
+    {
+      "name": "NAGOYA KO",
+      "long": 136.52,
+      "longType": "E",
+      "lat": 35.4,
+      "latType": "N"
+    },
+    {
+      "name": "OWASE",
+      "long": 136.13,
+      "longType": "E",
+      "lat": 34.4,
+      "latType": "N"
+    },
+    {
+      "name": "SHIMOTSU",
+      "long": 135.8,
+      "longType": "E",
+      "lat": 34.7,
+      "latType": "N"
+    },
+    {
+      "name": "KAINAN",
+      "long": 135.12,
+      "longType": "E",
+      "lat": 34.9,
+      "latType": "N"
+    },
+    {
+      "name": "WAKAYAMA KU",
+      "long": 135.8,
+      "longType": "E",
+      "lat": 34.14,
+      "latType": "N"
+    },
+    {
+      "name": "OSAKA",
+      "long": 135.26,
+      "longType": "E",
+      "lat": 34.39,
+      "latType": "N"
+    },
+    {
+      "name": "KOBE",
+      "long": 135.11,
+      "longType": "E",
+      "lat": 34.39,
+      "latType": "N"
+    },
+    {
+      "name": "HIBI KO",
+      "long": 133.56,
+      "longType": "E",
+      "lat": 34.27,
+      "latType": "N"
+    },
+    {
+      "name": "INNOSHIMA",
+      "long": 133.11,
+      "longType": "E",
+      "lat": 34.17,
+      "latType": "N"
+    },
+    {
+      "name": "KANOKAWA KO",
+      "long": 132.26,
+      "longType": "E",
+      "lat": 34.11,
+      "latType": "N"
+    },
+    {
+      "name": "TOKUYAMA",
+      "long": 131.49,
+      "longType": "E",
+      "lat": 34.2,
+      "latType": "N"
+    },
+    {
+      "name": "SAKAI KO",
+      "long": 133.15,
+      "longType": "E",
+      "lat": 35.33,
+      "latType": "N"
+    },
+    {
+      "name": "MIYAZU",
+      "long": 135.12,
+      "longType": "E",
+      "lat": 35.32,
+      "latType": "N"
+    },
+    {
+      "name": "MAIZURU KO",
+      "long": 135.20,
+      "longType": "E",
+      "lat": 35.31,
+      "latType": "N"
+    },
+    {
+      "name": "TSURUGA",
+      "long": 136.4,
+      "longType": "E",
+      "lat": 35.39,
+      "latType": "N"
+    },
+    {
+      "name": "KANAZAWA",
+      "long": 136.36,
+      "longType": "E",
+      "lat": 36.37,
+      "latType": "N"
+    },
+    {
+      "name": "NAOETSU",
+      "long": 138.15,
+      "longType": "E",
+      "lat": 37.11,
+      "latType": "N"
+    },
+    {
+      "name": "NIIGATA KO",
+      "long": 139.3,
+      "longType": "E",
+      "lat": 37.55,
+      "latType": "N"
+    },
+    {
+      "name": "EASTERN PART OF NIIGATA-KO",
+      "long": 139.14,
+      "longType": "E",
+      "lat": 38.1,
+      "latType": "N"
+    },
+    {
+      "name": "RYOTU KO",
+      "long": 138.34,
+      "longType": "E",
+      "lat": 38.5,
+      "latType": "N"
+    },
+    {
+      "name": "TACHIBANA",
+      "long": 134.40,
+      "longType": "E",
+      "lat": 33.52,
+      "latType": "N"
+    },
+    {
+      "name": "SHINGU",
+      "long": 135.59,
+      "longType": "E",
+      "lat": 33.40,
+      "latType": "N"
+    },
+    {
+      "name": "SUSAKI KO",
+      "long": 133.18,
+      "longType": "E",
+      "lat": 33.23,
+      "latType": "N"
+    },
+    {
+      "name": "MUTUREZIMA KO",
+      "long": 130.52,
+      "longType": "E",
+      "lat": 33.58,
+      "latType": "N"
+    },
+    {
+      "name": "TAKUMA",
+      "long": 133.41,
+      "longType": "E",
+      "lat": 34.13,
+      "latType": "N"
+    },
+    {
+      "name": "NIIHAMA",
+      "long": 133.16,
+      "longType": "E",
+      "lat": 33.58,
+      "latType": "N"
+    },
+    {
+      "name": "KOKURA KO",
+      "long": 130.53,
+      "longType": "E",
+      "lat": 33.53,
+      "latType": "N"
+    },
+    {
+      "name": "TSUKUMI",
+      "long": 131.52,
+      "longType": "E",
+      "lat": 33.5,
+      "latType": "N"
+    },
+    {
+      "name": "HOSOSHIMA KO",
+      "long": 131.40,
+      "longType": "E",
+      "lat": 32.26,
+      "latType": "N"
+    },
+    {
+      "name": "KAGOSHIMA",
+      "long": 130.34,
+      "longType": "E",
+      "lat": 31.35,
+      "latType": "N"
+    },
+    {
+      "name": "SHIBUSHI WAN",
+      "long": 131.6,
+      "longType": "E",
+      "lat": 31.28,
+      "latType": "N"
+    },
+    {
+      "name": "KIIRE",
+      "long": 130.33,
+      "longType": "E",
+      "lat": 31.23,
+      "latType": "N"
+    },
+    {
+      "name": "MINAMATA KO",
+      "long": 130.23,
+      "longType": "E",
+      "lat": 32.12,
+      "latType": "N"
+    },
+    {
+      "name": "YATSUSHIRO",
+      "long": 130.32,
+      "longType": "E",
+      "lat": 32.30,
+      "latType": "N"
+    },
+    {
+      "name": "MISUMI KO",
+      "long": 130.28,
+      "longType": "E",
+      "lat": 32.36,
+      "latType": "N"
+    },
+    {
+      "name": "MATSU-SHIMA",
+      "long": 129.36,
+      "longType": "E",
+      "lat": 32.56,
+      "latType": "N"
+    },
+    {
+      "name": "NAGASAKI",
+      "long": 129.53,
+      "longType": "E",
+      "lat": 32.45,
+      "latType": "N"
+    },
+    {
+      "name": "SASEBO",
+      "long": 129.43,
+      "longType": "E",
+      "lat": 33.10,
+      "latType": "N"
+    },
+    {
+      "name": "IMARI",
+      "long": 129.53,
+      "longType": "E",
+      "lat": 33.17,
+      "latType": "N"
+    },
+    {
+      "name": "KARATSU",
+      "long": 129.58,
+      "longType": "E",
+      "lat": 33.27,
+      "latType": "N"
+    },
+    {
+      "name": "HAKATA",
+      "long": 130.24,
+      "longType": "E",
+      "lat": 33.36,
+      "latType": "N"
+    },
+    {
+      "name": "IZUHARA",
+      "long": 129.18,
+      "longType": "E",
+      "lat": 34.12,
+      "latType": "N"
+    },
+    {
+      "name": "KIN WAN",
+      "long": 127.58,
+      "longType": "E",
+      "lat": 26.22,
+      "latType": "N"
+    },
+    {
+      "name": "NISHIHARA",
+      "long": 127.48,
+      "longType": "E",
+      "lat": 26.13,
+      "latType": "N"
+    },
+    {
+      "name": "NAHA KO",
+      "long": 127.41,
+      "longType": "E",
+      "lat": 26.13,
+      "latType": "N"
+    },
+    {
+      "name": "NAKAGUSUKU",
+      "long": 127.55,
+      "longType": "E",
+      "lat": 26.16,
+      "latType": "N"
+    },
+    {
+      "name": "PEVEK",
+      "long": 170.18,
+      "longType": "E",
+      "lat": 69.43,
+      "latType": "N"
+    },
+    {
+      "name": "ARKHANGELS K",
+      "long": 40.32,
+      "longType": "E",
+      "lat": 64.32,
+      "latType": "N"
+    },
+    {
+      "name": "VITINO",
+      "long": 32.19,
+      "longType": "E",
+      "lat": 67.5,
+      "latType": "N"
+    },
+    {
+      "name": "KANGERLUARSORUSEQ",
+      "long": 51.33,
+      "longType": "W",
+      "lat": 63.42,
+      "latType": "N"
+    },
+    {
+      "name": "HALIFAX",
+      "long": 63.35,
+      "longType": "W",
+      "lat": 44.39,
+      "latType": "N"
+    },
+    {
+      "name": "CANAPORT (ST. JOHN)",
+      "long": 65.59,
+      "longType": "W",
+      "lat": 45.12,
+      "latType": "N"
+    },
+    {
+      "name": "ST JOHN",
+      "long": 66.3,
+      "longType": "W",
+      "lat": 45.16,
+      "latType": "N"
+    },
+    {
+      "name": "EASTPORT",
+      "long": 66.59,
+      "longType": "W",
+      "lat": 44.54,
+      "latType": "N"
+    },
+    {
+      "name": "BANGOR",
+      "long": 68.46,
+      "longType": "W",
+      "lat": 44.48,
+      "latType": "N"
+    },
+    {
+      "name": "SEARSPORT",
+      "long": 68.55,
+      "longType": "W",
+      "lat": 44.27,
+      "latType": "N"
+    },
+    {
+      "name": "PORTLAND",
+      "long": 70.15,
+      "longType": "W",
+      "lat": 43.40,
+      "latType": "N"
+    },
+    {
+      "name": "PORTSMOUTH",
+      "long": 70.45,
+      "longType": "W",
+      "lat": 43.5,
+      "latType": "N"
+    },
+    {
+      "name": "SALEM",
+      "long": 70.53,
+      "longType": "W",
+      "lat": 42.31,
+      "latType": "N"
+    },
+    {
+      "name": "BOSTON",
+      "long": 71.3,
+      "longType": "W",
+      "lat": 42.21,
+      "latType": "N"
+    },
+    {
+      "name": "TIVERTON",
+      "long": 71.13,
+      "longType": "W",
+      "lat": 41.38,
+      "latType": "N"
+    },
+    {
+      "name": "STRAUMSVIK",
+      "long": 22.3,
+      "longType": "W",
+      "lat": 64.3,
+      "latType": "N"
+    },
+    {
+      "name": "NEW LONDON",
+      "long": 72.5,
+      "longType": "W",
+      "lat": 41.21,
+      "latType": "N"
+    },
+    {
+      "name": "NEW HAVEN",
+      "long": 72.55,
+      "longType": "W",
+      "lat": 41.14,
+      "latType": "N"
+    },
+    {
+      "name": "PORT JEFFERSON",
+      "long": 73.5,
+      "longType": "W",
+      "lat": 40.57,
+      "latType": "N"
+    },
+    {
+      "name": "BRIDGEPORT",
+      "long": 73.11,
+      "longType": "W",
+      "lat": 41.10,
+      "latType": "N"
+    },
+    {
+      "name": "BROOKLYN",
+      "long": 74.1,
+      "longType": "W",
+      "lat": 40.40,
+      "latType": "N"
+    },
+    {
+      "name": "NEW YORK CITY",
+      "long": 74.1,
+      "longType": "W",
+      "lat": 40.42,
+      "latType": "N"
+    },
+    {
+      "name": "PATCHOGUE",
+      "long": 73.1,
+      "longType": "W",
+      "lat": 40.45,
+      "latType": "N"
+    },
+    {
+      "name": "NEWBURGH",
+      "long": 74.0,
+      "longType": "W",
+      "lat": 41.30,
+      "latType": "N"
+    },
+    {
+      "name": "ALBANY",
+      "long": 73.45,
+      "longType": "W",
+      "lat": 42.39,
+      "latType": "N"
+    },
+    {
+      "name": "EDGEWATER",
+      "long": 73.59,
+      "longType": "W",
+      "lat": 40.49,
+      "latType": "N"
+    },
+    {
+      "name": "WEEHAWKEN",
+      "long": 74.1,
+      "longType": "W",
+      "lat": 40.46,
+      "latType": "N"
+    },
+    {
+      "name": "HOBOKEN",
+      "long": 74.1,
+      "longType": "W",
+      "lat": 40.45,
+      "latType": "N"
+    },
+    {
+      "name": "JERSEY CITY",
+      "long": 74.2,
+      "longType": "W",
+      "lat": 40.43,
+      "latType": "N"
+    },
+    {
+      "name": "BAYONNE",
+      "long": 74.6,
+      "longType": "W",
+      "lat": 40.41,
+      "latType": "N"
+    },
+    {
+      "name": "NEWARK",
+      "long": 74.9,
+      "longType": "W",
+      "lat": 40.42,
+      "latType": "N"
+    },
+    {
+      "name": "ELIZABETHPORT",
+      "long": 74.11,
+      "longType": "W",
+      "lat": 40.39,
+      "latType": "N"
+    },
+    {
+      "name": "STAPLETON SI",
+      "long": 74.4,
+      "longType": "W",
+      "lat": 40.38,
+      "latType": "N"
+    },
+    {
+      "name": "GULFPORT SI",
+      "long": 74.12,
+      "longType": "W",
+      "lat": 40.38,
+      "latType": "N"
+    },
+    {
+      "name": "PORT SOCONY",
+      "long": 74.15,
+      "longType": "W",
+      "lat": 40.33,
+      "latType": "N"
+    },
+    {
+      "name": "BAYWAY",
+      "long": 74.12,
+      "longType": "W",
+      "lat": 40.38,
+      "latType": "N"
+    },
+    {
+      "name": "CARTERET",
+      "long": 74.13,
+      "longType": "W",
+      "lat": 40.35,
+      "latType": "N"
+    },
+    {
+      "name": "SEWAREN",
+      "long": 74.15,
+      "longType": "W",
+      "lat": 40.33,
+      "latType": "N"
+    },
+    {
+      "name": "PERTH AMBOY",
+      "long": 74.16,
+      "longType": "W",
+      "lat": 40.30,
+      "latType": "N"
+    },
+    {
+      "name": "HAFNARFJORDUR",
+      "long": 21.57,
+      "longType": "W",
+      "lat": 64.4,
+      "latType": "N"
+    },
+    {
+      "name": "NEW CASTLE",
+      "long": 75.34,
+      "longType": "W",
+      "lat": 39.39,
+      "latType": "N"
+    },
+    {
+      "name": "DEEPWATER POINT",
+      "long": 75.31,
+      "longType": "W",
+      "lat": 39.42,
+      "latType": "N"
+    },
+    {
+      "name": "WILMINGTON",
+      "long": 75.33,
+      "longType": "W",
+      "lat": 39.44,
+      "latType": "N"
+    },
+    {
+      "name": "MARCUS HOOK",
+      "long": 75.25,
+      "longType": "W",
+      "lat": 39.49,
+      "latType": "N"
+    },
+    {
+      "name": "CHESTER",
+      "long": 75.21,
+      "longType": "W",
+      "lat": 39.51,
+      "latType": "N"
+    },
+    {
+      "name": "PHILADELPHIA",
+      "long": 75.8,
+      "longType": "W",
+      "lat": 39.57,
+      "latType": "N"
+    },
+    {
+      "name": "PAULSBORO",
+      "long": 75.15,
+      "longType": "W",
+      "lat": 39.51,
+      "latType": "N"
+    },
+    {
+      "name": "CAMDEN",
+      "long": 75.8,
+      "longType": "W",
+      "lat": 39.57,
+      "latType": "N"
+    },
+    {
+      "name": "BALTIMORE",
+      "long": 76.35,
+      "longType": "W",
+      "lat": 39.16,
+      "latType": "N"
+    },
+    {
+      "name": "PINEY POINT",
+      "long": 76.32,
+      "longType": "W",
+      "lat": 38.8,
+      "latType": "N"
+    },
+    {
+      "name": "YORKTOWN",
+      "long": 76.30,
+      "longType": "W",
+      "lat": 37.14,
+      "latType": "N"
+    },
+    {
+      "name": "NORFOLK",
+      "long": 76.18,
+      "longType": "W",
+      "lat": 36.51,
+      "latType": "N"
+    },
+    {
+      "name": "PORTSMOUTH",
+      "long": 76.18,
+      "longType": "W",
+      "lat": 36.49,
+      "latType": "N"
+    },
+    {
+      "name": "NEWPORT NEWS",
+      "long": 76.26,
+      "longType": "W",
+      "lat": 36.58,
+      "latType": "N"
+    },
+    {
+      "name": "RICHMOND",
+      "long": 77.25,
+      "longType": "W",
+      "lat": 37.32,
+      "latType": "N"
+    },
+    {
+      "name": "BEAUFORT",
+      "long": 76.40,
+      "longType": "W",
+      "lat": 34.43,
+      "latType": "N"
+    },
+    {
+      "name": "MOREHEAD CITY",
+      "long": 76.42,
+      "longType": "W",
+      "lat": 34.43,
+      "latType": "N"
+    },
+    {
+      "name": "WILMINGTON",
+      "long": 77.57,
+      "longType": "W",
+      "lat": 34.14,
+      "latType": "N"
+    },
+    {
+      "name": "GEORGETOWN",
+      "long": 79.17,
+      "longType": "W",
+      "lat": 33.22,
+      "latType": "N"
+    },
+    {
+      "name": "CHARLESTON",
+      "long": 79.55,
+      "longType": "W",
+      "lat": 32.47,
+      "latType": "N"
+    },
+    {
+      "name": "BEAUFORT",
+      "long": 80.40,
+      "longType": "W",
+      "lat": 32.2,
+      "latType": "N"
+    },
+    {
+      "name": "SAVANNAH",
+      "long": 81.5,
+      "longType": "W",
+      "lat": 32.5,
+      "latType": "N"
+    },
+    {
+      "name": "BRUNSWICK",
+      "long": 81.30,
+      "longType": "W",
+      "lat": 31.9,
+      "latType": "N"
+    },
+    {
+      "name": "MAYPORT",
+      "long": 81.26,
+      "longType": "W",
+      "lat": 30.24,
+      "latType": "N"
+    },
+    {
+      "name": "JACKSONVILLE",
+      "long": 81.39,
+      "longType": "W",
+      "lat": 30.19,
+      "latType": "N"
+    },
+    {
+      "name": "CANAVERAL HARBOR",
+      "long": 80.37,
+      "longType": "W",
+      "lat": 28.42,
+      "latType": "N"
+    },
+    {
+      "name": "PALM BEACH",
+      "long": 80.3,
+      "longType": "W",
+      "lat": 26.46,
+      "latType": "N"
+    },
+    {
+      "name": "PORT EVERGLADES",
+      "long": 80.7,
+      "longType": "W",
+      "lat": 26.6,
+      "latType": "N"
+    },
+    {
+      "name": "MIAMI",
+      "long": 80.11,
+      "longType": "W",
+      "lat": 25.47,
+      "latType": "N"
+    },
+    {
+      "name": "KEY WEST",
+      "long": 81.49,
+      "longType": "W",
+      "lat": 24.33,
+      "latType": "N"
+    },
+    {
+      "name": "BOCA GRANDE",
+      "long": 82.20,
+      "longType": "W",
+      "lat": 26.42,
+      "latType": "N"
+    },
+    {
+      "name": "TAMPA",
+      "long": 82.27,
+      "longType": "W",
+      "lat": 27.55,
+      "latType": "N"
+    },
+    {
+      "name": "ST PETERSBURG",
+      "long": 82.37,
+      "longType": "W",
+      "lat": 27.46,
+      "latType": "N"
+    },
+    {
+      "name": "PENSACOLA",
+      "long": 87.13,
+      "longType": "W",
+      "lat": 30.24,
+      "latType": "N"
+    },
+    {
+      "name": "MOBILE",
+      "long": 88.7,
+      "longType": "W",
+      "lat": 30.41,
+      "latType": "N"
+    },
+    {
+      "name": "PASCAGOULA",
+      "long": 88.34,
+      "longType": "W",
+      "lat": 30.21,
+      "latType": "N"
+    },
+    {
+      "name": "PORT SULPHUR",
+      "long": 89.41,
+      "longType": "W",
+      "lat": 29.29,
+      "latType": "N"
+    },
+    {
+      "name": "NEW ORLEANS",
+      "long": 90.3,
+      "longType": "W",
+      "lat": 29.57,
+      "latType": "N"
+    },
+    {
+      "name": "TRI-CITY PORT",
+      "long": 90.12,
+      "longType": "W",
+      "lat": 38.43,
+      "latType": "N"
+    },
+    {
+      "name": "ST ROSE",
+      "long": 90.19,
+      "longType": "W",
+      "lat": 29.57,
+      "latType": "N"
+    },
+    {
+      "name": "RESERVE",
+      "long": 90.33,
+      "longType": "W",
+      "lat": 30.3,
+      "latType": "N"
+    },
+    {
+      "name": "DESTREHAN",
+      "long": 90.22,
+      "longType": "W",
+      "lat": 29.57,
+      "latType": "N"
+    },
+    {
+      "name": "BATON ROUGE",
+      "long": 91.11,
+      "longType": "W",
+      "lat": 30.27,
+      "latType": "N"
+    },
+    {
+      "name": "LOOP TERMINAL",
+      "long": 90.1,
+      "longType": "W",
+      "lat": 28.53,
+      "latType": "N"
+    },
+    {
+      "name": "SKERJAFJORDUR",
+      "long": 22.1,
+      "longType": "W",
+      "lat": 64.9,
+      "latType": "N"
+    },
+    {
+      "name": "MORGAN CITY",
+      "long": 91.13,
+      "longType": "W",
+      "lat": 29.42,
+      "latType": "N"
+    },
+    {
+      "name": "LAKE CHARLES",
+      "long": 93.15,
+      "longType": "W",
+      "lat": 30.13,
+      "latType": "N"
+    },
+    {
+      "name": "SABINE",
+      "long": 93.52,
+      "longType": "W",
+      "lat": 29.43,
+      "latType": "N"
+    },
+    {
+      "name": "ORANGE",
+      "long": 93.44,
+      "longType": "W",
+      "lat": 30.5,
+      "latType": "N"
+    },
+    {
+      "name": "PORT ARTHUR",
+      "long": 93.58,
+      "longType": "W",
+      "lat": 29.50,
+      "latType": "N"
+    },
+    {
+      "name": "PORT NECHES",
+      "long": 93.57,
+      "longType": "W",
+      "lat": 30.0,
+      "latType": "N"
+    },
+    {
+      "name": "BEAUMONT",
+      "long": 94.5,
+      "longType": "W",
+      "lat": 30.5,
+      "latType": "N"
+    },
+    {
+      "name": "GALVESTON",
+      "long": 94.47,
+      "longType": "W",
+      "lat": 29.19,
+      "latType": "N"
+    },
+    {
+      "name": "TEXAS CITY",
+      "long": 94.55,
+      "longType": "W",
+      "lat": 29.23,
+      "latType": "N"
+    },
+    {
+      "name": "BAYTOWN",
+      "long": 95.1,
+      "longType": "W",
+      "lat": 29.44,
+      "latType": "N"
+    },
+    {
+      "name": "PASADENA",
+      "long": 95.13,
+      "longType": "W",
+      "lat": 29.43,
+      "latType": "N"
+    },
+    {
+      "name": "DEER PARK",
+      "long": 95.20,
+      "longType": "W",
+      "lat": 29.45,
+      "latType": "N"
+    },
+    {
+      "name": "HOUSTON",
+      "long": 95.17,
+      "longType": "W",
+      "lat": 29.45,
+      "latType": "N"
+    },
+    {
+      "name": "FREEPORT",
+      "long": 95.20,
+      "longType": "W",
+      "lat": 28.57,
+      "latType": "N"
+    },
+    {
+      "name": "CORPUS CHRISTI",
+      "long": 97.24,
+      "longType": "W",
+      "lat": 27.49,
+      "latType": "N"
+    },
+    {
+      "name": "PORT INGLESIDE",
+      "long": 97.11,
+      "longType": "W",
+      "lat": 27.49,
+      "latType": "N"
+    },
+    {
+      "name": "PORT ISABEL",
+      "long": 97.12,
+      "longType": "W",
+      "lat": 26.5,
+      "latType": "N"
+    },
+    {
+      "name": "BROWNSVILLE",
+      "long": 97.24,
+      "longType": "W",
+      "lat": 25.57,
+      "latType": "N"
+    },
+    {
+      "name": "ALTAMIRA",
+      "long": 97.51,
+      "longType": "W",
+      "lat": 22.29,
+      "latType": "N"
+    },
+    {
+      "name": "TAMPICO",
+      "long": 97.52,
+      "longType": "W",
+      "lat": 22.13,
+      "latType": "N"
+    },
+    {
+      "name": "TUXPAN",
+      "long": 97.24,
+      "longType": "W",
+      "lat": 20.57,
+      "latType": "N"
+    },
+    {
+      "name": "VERACRUZ",
+      "long": 96.8,
+      "longType": "W",
+      "lat": 19.12,
+      "latType": "N"
+    },
+    {
+      "name": "CAYO ARCAS TERMINAL",
+      "long": 91.59,
+      "longType": "W",
+      "lat": 20.10,
+      "latType": "N"
+    },
+    {
+      "name": "COATZACOALCOS",
+      "long": 94.25,
+      "longType": "W",
+      "lat": 18.9,
+      "latType": "N"
+    },
+    {
+      "name": "NANCHITAL",
+      "long": 94.25,
+      "longType": "W",
+      "lat": 18.4,
+      "latType": "N"
+    },
+    {
+      "name": "DOS BOCAS TERMINAL",
+      "long": 93.13,
+      "longType": "W",
+      "lat": 18.26,
+      "latType": "N"
+    },
+    {
+      "name": "PROGRESO",
+      "long": 89.40,
+      "longType": "W",
+      "lat": 21.17,
+      "latType": "N"
+    },
+    {
+      "name": "BELIZE CITY",
+      "long": 88.11,
+      "longType": "W",
+      "lat": 17.30,
+      "latType": "N"
+    },
+    {
+      "name": "SANTO THOMAS DE CASTILLA",
+      "long": 88.37,
+      "longType": "W",
+      "lat": 15.42,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO CORTES",
+      "long": 87.57,
+      "longType": "W",
+      "lat": 15.50,
+      "latType": "N"
+    },
+    {
+      "name": "TELA",
+      "long": 87.27,
+      "longType": "W",
+      "lat": 15.47,
+      "latType": "N"
+    },
+    {
+      "name": "LA CEIBA",
+      "long": 86.48,
+      "longType": "W",
+      "lat": 15.47,
+      "latType": "N"
+    },
+    {
+      "name": "COXEN HOLE",
+      "long": 86.33,
+      "longType": "W",
+      "lat": 16.19,
+      "latType": "N"
+    },
+    {
+      "name": "TRUJILLO",
+      "long": 85.57,
+      "longType": "W",
+      "lat": 15.55,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO CASTILLA",
+      "long": 85.59,
+      "longType": "W",
+      "lat": 16.0,
+      "latType": "N"
+    },
+    {
+      "name": "BLUEFIELDS",
+      "long": 83.45,
+      "longType": "W",
+      "lat": 12.1,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO MOIN",
+      "long": 83.5,
+      "longType": "W",
+      "lat": 10.0,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO LIMON",
+      "long": 83.1,
+      "longType": "W",
+      "lat": 9.59,
+      "latType": "N"
+    },
+    {
+      "name": "CHIRIQUI GRANDE",
+      "long": 82.7,
+      "longType": "W",
+      "lat": 8.57,
+      "latType": "N"
+    },
+    {
+      "name": "ALMIRANTE",
+      "long": 82.24,
+      "longType": "W",
+      "lat": 9.18,
+      "latType": "N"
+    },
+    {
+      "name": "PUERTO CRISTOBAL",
+      "long": 79.55,
+      "longType": "W",
+      "lat": 9.21,
+      "latType": "N"
+    },
+    {
+      "name": "BAHIA DE LAS MINAS",
+      "long": 79.49,
+      "longType": "W",
+      "lat": 9.24,
+      "latType": "N"
+    },
+    {
+      "name": "ST GEORGE S",
+      "long": 64.41,
+      "longType": "W",
+      "lat": 32.23,
+      "latType": "N"
+    },
+    {
+      "name": "IRELAND ISLAND",
+      "long": 64.50,
+      "longType": "W",
+      "lat": 32.19,
+      "latType": "N"
+    },
+    {
+      "name": "HAMILTON",
+      "long": 64.47,
+      "longType": "W",
+      "lat": 32.18,
+      "latType": "N"
+    },
+    {
+      "name": "FREEPORT",
+      "long": 78.47,
+      "longType": "W",
+      "lat": 26.31,
+      "latType": "N"
+    },
+    {
+      "name": "SOUTH RIDING POINT",
+      "long": 78.13,
+      "longType": "W",
+      "lat": 26.37,
+      "latType": "N"
+    },
+    {
+      "name": "NASSAU",
+      "long": 77.21,
+      "longType": "W",
+      "lat": 25.5,
+      "latType": "N"
+    },
+    {
+      "name": "CLIFTON PIER",
+      "long": 77.33,
+      "longType": "W",
+      "lat": 25.0,
+      "latType": "N"
+    }
+  ]
+}
