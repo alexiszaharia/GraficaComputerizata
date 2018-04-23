@@ -1,0 +1,152 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>GraficaSem4</title>
+	<meta charset="utf-8" />
+    <script type="text/javascript" src="three.js-master/build/three.js"></script>
+    <script type="text/javascript" src="three.js-master/examples/js/controls/OrbitControls.js"></script>
+</head>
+<body>
+    <script type="text/javascript">
+        var W = window.innerWidth, H = window.innerHeight;
+
+        var renderer = new THREE.WebGLRenderer();
+        renderer.setSize(W, H);
+        document.body.appendChild(renderer.domElement);
+
+        var scene = new THREE.Scene();
+        scene.add(new THREE.AxesHelper(100));
+
+        //var materialSprite = new THREE.SpriteMaterial({
+        //    color: "yellow",
+        //    opacity: 0.4,
+        //    transparent: true
+        //});
+
+        //for (var i = 0; i < 100; i++) {
+        //    for (var j = 0; j < 100; j++) {
+        //        var sprite = new THREE.Sprite(materialSprite);
+        //        sprite.scale.set(0.3 * i, 0.75, 1);
+        //        sprite.position.set(i * 2, j * 2, 0);
+        //        scene.add(sprite);
+        //    }
+        //}
+
+        //var x = 0;
+        //function getTexture() {
+        //    var canvas = document.createElement("canvas");
+        //    canvas.width = 64; canvas.height = 64;
+
+        //    var context = canvas.getContext("2d");
+        //    context.fillStyle = "white";
+        //    context.fillRect(0, 0, 64, 64);
+
+        //    context.fillStyle = "blue";
+        //    context.fillRect(x, 0, 10, 10);
+
+        //    document.body.appendChild(canvas);
+
+        //    return new THREE.CanvasTexture(canvas);
+        //}
+
+        var texturePaths = [
+            "three.js-master/examples/textures/sprites/snowflake1.png",
+            "three.js-master/examples/textures/sprites/snowflake2.png",
+            "three.js-master/examples/textures/sprites/snowflake3.png",
+            "three.js-master/examples/textures/sprites/snowflake4.png",
+            "three.js-master/examples/textures/sprites/snowflake5.png"
+        ];
+
+        function createCloud(texturePath) {
+            var textureLoader = new THREE.TextureLoader();
+            var texture = textureLoader.load(texturePath/*"three.js-master/examples/textures/sprites/snowflake1.png"*/);
+
+            var materialPoints = new THREE.PointsMaterial({
+                //color: "yellow",
+                //opacity: 0.4,
+                //transparent: true,
+                //vertexColors: true
+                //map: getTexture()
+                map: texture,
+                opacity: 0.5,
+                transparent: true
+            });
+            var pointsGeometry = new THREE.Geometry();
+
+            const points = new THREE.Points(pointsGeometry, materialPoints);
+            scene.add(points);
+
+            var n = 100;
+            for (var i = 0; i < n; i++) {
+                for (var j = 0; j < n; j++) {
+                    var punct = new THREE.Vector3(Math.random() * 500, Math.random() * 500, Math.random() * 500);
+                    punct.viteza = -1 + Math.random() * 2;
+                    pointsGeometry.vertices.push(punct);
+                    
+                    var red = Math.trunc((i * 1.0 / n) * 255.0);
+                    var green = Math.trunc((j * 1.0 / n) * 255.0);
+
+                    var color = new THREE.Color(red * 0xFFFF + green * 0xFF);
+                    pointsGeometry.colors.push(color);
+                }
+            }
+            pointsGeometry.translate(-250, -250, -250);
+            return points;
+        }
+
+        function updateCloud(cloud) {
+            //cloud.rotation.x += 0.01;
+            //cloud.rotation.z += 0.01;
+
+            for (var i = 0; i < cloud.geometry.vertices.length; i++) {
+                cloud.geometry.vertices[i].x += cloud.geometry.vertices[i].viteza;
+            }
+            cloud.geometry.verticesNeedUpdate = true;
+        }
+
+        var clouds = [];
+        for (var urlIndex = 0; urlIndex < texturePaths.length; urlIndex++) {
+            var temp = createCloud(texturePaths[urlIndex]);
+            clouds.push(temp);
+            scene.add(temp);
+        }
+
+        var camera = new THREE.PerspectiveCamera(90, W / H, 0.01, 4000);
+        camera.position.set(100, 100, 100);
+        camera.lookAt(scene.position);
+        new THREE.OrbitControls(camera);
+
+        var sceneOrtho = new THREE.Scene();
+        var cameraOrtho = new THREE.OrthographicCamera(0, window.innerWidth, window.innerHeight, 0, -10, 10);
+
+        var textureLoader = new THREE.TextureLoader();
+        var manTexture = textureLoader.load("three.js-master/examples/textures/WalkingManSpriteSheet.png");
+        manTexture.wrapS = manTexture.wrapT = THREE.RepeatWrapping;
+        manTexture.offset.set(6 / 8, 1);
+        manTexture.repeat.set(1 / 8, 1);
+
+        var spriteMaterial = new THREE.SpriteMaterial({
+            opacity: 0.3,
+            transparent: true,
+
+        });
+
+        function desenare() {
+            renderer.render(scene, camera);
+            renderer.autoClear = false;
+            renderer.render(sceneOrtho, cameraOrtho);
+            requestAnimationFrame(desenare);
+            //x = (x + 1) % 64;
+            //points.material.map = getTexture();
+            //points.material.needsUpdate = true;
+
+            //points.rotation.x += 0.01;
+            //points.rotation.z += 0.01;
+
+            clouds.forEach(cloud => updateCloud(cloud));
+        }
+        desenare();
+    </script>
+
+</body>
+</html>
