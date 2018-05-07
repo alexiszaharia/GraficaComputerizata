@@ -1,0 +1,145 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Partea a 2-a</title>
+	<meta charset="utf-8" />
+    <script src="./three.js-master/build/three.min.js"></script>
+    <script src="./three.js-master/examples/js/controls/OrbitControls.js"></script>
+</head>
+<body>
+    <script type="text/javascript">
+        const W = window.innerWidth;
+        const H = window.innerHeight;
+
+        const renderer = new THREE.WebGLRenderer();
+        renderer.setSize(W, H);
+
+        var scene = new THREE.Scene();
+        scene.add(new THREE.AxesHelper(1000));
+        var camera = new THREE.PerspectiveCamera(60, W / H, 0.01, 10000);
+        camera.position.x = 10;
+        camera.position.y = 10;
+        camera.position.z = 10;
+        camera.lookAt(scene.position);
+        new THREE.OrbitControls(camera);
+
+        var textureLoader = new THREE.TextureLoader();
+        var plane = new THREE.Mesh(
+            new THREE.PlaneGeometry(100, 100, 20, 20),
+            new THREE.MeshLambertMaterial({
+                color: 0xffffff,
+                map: textureLoader.load("three.js-master/examples/textures/floors/FloorsCheckerboard_S_Diffuse.jpg")
+            })
+            );
+        plane.rotation.x = -Math.PI / 2;
+        plane.material.map.wrapS = plane.material.map.wrapT = THREE.RepeatWrapping;
+        plane.material.map.repeat.set(100, 100);
+        plane.position.y = -1;
+        scene.add(plane);
+
+        //Adaugare lumini
+        var dirLight = new THREE.DirectionalLight();
+        dirLight.position.set(25, 23, 15);
+        scene.add(dirLight);
+
+        var dirLight2 = new THREE.DirectionalLight();
+        dirLight2.position.set(-25, 23, 15);
+        scene.add(dirLight2);
+
+        //Adaugare obiecte
+        var cubes = [];
+        var cubeGeometry = new THREE.BoxGeometry(2, 2, 2);
+        var cubeMaterial = new THREE.MeshLambertMaterial({ color: 0xff2255 });
+        var cube = new THREE.Mesh(cubeGeometry, cubeMaterial);
+        cube.name = 'cube';
+        scene.add(cube);
+
+        var cubeMaterial2 = new THREE.MeshLambertMaterial({ color: 0xff0000 });
+        var cube2 = new THREE.Mesh(cubeGeometry, cubeMaterial2);
+        cube2.position.set(5, 0, 0);
+        cube2.name = 'cube-red';
+        scene.add(cube2);
+        cubes.push(cube2);
+
+        var cubeMaterial3 = new THREE.MeshLambertMaterial({ color: 0x00ff00 });
+        var cube3 = new THREE.Mesh(cubeGeometry, cubeMaterial3);
+        cube3.position.set(0, 0, 5);
+        cube3.name = 'cube-green';
+        scene.add(cube3);
+        cubes.push(cube3);
+
+        var cubeMaterial4 = new THREE.MeshLambertMaterial({ color: 0x0000ff });
+        var cube4 = new THREE.Mesh(cubeGeometry, cubeMaterial4);
+        cube4.position.set(0, 0, -5);
+        cube4.name = 'cube-blue';
+        scene.add(cube4);
+        cubes.push(cube4);
+
+        var cubeMaterial5 = new THREE.MeshLambertMaterial({ color: 0xff00ff });
+        var cube5 = new THREE.Mesh(cubeGeometry, cubeMaterial5);
+        cube5.position.set(-5, 0, 0);
+        cube5.name = 'cube-pink';
+        scene.add(cube5);
+        cubes.push(cube5);
+
+        document.body.appendChild(renderer.domElement);
+
+        function render() {
+            renderer.render(scene, camera);
+            requestAnimationFrame(render);
+        }
+        render();
+
+        function detectie() {
+            cubes.forEach(function (c) {
+                c.material.opacity = 1;
+                c.material.transparent = false;
+            });
+
+            var originPoint = cube.position.clone();
+
+            for (var i = 0; i < cube.geometry.vertices.length; i++) {
+                var localVertex = cube.geometry.vertices[i].clone();
+                var globalVertex = localVertex.applyMatrix4(cube.matrix);
+                var directionVector = globalVertex.sub(cube.position);
+
+                var ray = new THREE.Raycaster(originPoint, directionVector.clone().normalize());
+                var result = ray.intersectObjects(cubes);
+
+                if (result.length > 0) {
+                    console.log(result[0].object.name);
+                    result[0].object.material.opacity = 0.3;
+                    result[0].object.material.transparent = true;
+                }
+                //console.log(result);
+            }
+        }
+
+        document.addEventListener('keydown', function (e) {
+            var delta = 0.15;
+            var cub = scene.getObjectByName('cube');
+
+            //console.log(e.keyCode);
+            detectie();
+
+            if (e.keyCode == '37') {
+                cub.position.x -= delta;
+            } else if (e.keyCode == '38') {
+                //up arrow
+                cub.position.z -= delta;
+            } else if (e.keyCode == '39') {
+                //right arrow
+                cub.position.x += delta;
+            } else if (e.keyCode == '40') {
+                //down arrow
+                cub.position.z += delta;
+            } else if (e.keyCode == '65') {
+                cub.rotation.y -= delta;
+            } else if (e.keyCode == '83') {
+                cub.rotation.y += delta;
+            }
+        });
+    </script>
+
+</body>
+</html>

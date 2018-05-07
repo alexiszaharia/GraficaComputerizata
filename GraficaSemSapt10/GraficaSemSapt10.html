@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Seminar 4</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+
+    <script src="./three.js-master/build/three.min.js"></script>
+    <script src="./three.js-master/examples/js/controls/OrbitControls.js"></script>
+    <script>
+    const W = window.innerWidth;
+    const H = window.innerHeight;
+
+    const renderer = new THREE.WebGLRenderer();
+    renderer.setSize(W, H);
+
+    const scene = new THREE.Scene();
+
+    scene.add(new THREE.AxesHelper(1000));
+    scene.add(
+        new THREE.Mesh(
+        new THREE.SphereGeometry(30, 15, 15),
+        new THREE.MeshNormalMaterial()));
+
+    const camera = new THREE.PerspectiveCamera(90, W / H, 0.01, 100000);
+    camera.position.set(100, 100, 100);
+    camera.lookAt(scene.position);
+    new THREE.OrbitControls(camera);
+
+    document.body.appendChild(renderer.domElement);
+
+    var sceneOrtho = new THREE.Scene();
+
+    var textureLoader = new THREE.TextureLoader();
+    var texture = textureLoader.load("three.js-master/examples/textures/WalkingManSpriteSheet.png");
+    texture.wrapS = texture.wrapT = THREE.RepeatWrapping;
+    texture.offset.set(6 / 8, 1);
+    texture.repeat.set(1 / 8, 1);
+
+    var spriteMaterial = new THREE.SpriteMaterial({
+        opacity: 0.3, transparent: true,
+        map: texture
+    });
+    spriteMaterial.blending = THREE.AdditiveBlending;
+    spriteMaterial.depthTest = false;
+
+    var sprite = new THREE.Sprite(spriteMaterial);
+    sprite.scale.set(120, 120, 30);
+    sprite.position.set(200, 520, 10);
+    sceneOrtho.add(sprite);
+
+    var cameraOrtho = new THREE.OrthographicCamera(0, window.innerWidth, window.innerHeight, 0, -10, 10);
+
+    var indexCurent = 1;
+    var pozitiex = 200;
+    setInterval(function () {
+        indexCurent++;
+        pozitiex += (pozitiex + 5) % 350;
+    }, 200);
+
+    function render() {
+        renderer.render(scene, camera);
+        renderer.autoClear = false;
+        renderer.render(sceneOrtho, cameraOrtho);
+        requestAnimationFrame(render);
+
+        sprite.position.setX(indexCurent * 8);
+
+        spriteMaterial.map.offset = new THREE.Vector2(1 / 8 * indexCurent, 0);
+        sprite.material.map.needsUpdate = true;
+    }
+    render();
+    </script>
+</body>
+</html>
